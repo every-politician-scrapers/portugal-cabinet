@@ -1,9 +1,10 @@
 @@,name,position
 ->,Marta Temido,Minister of Health->Minister for Health
+->,Maria do Céu Albuquerque->Maria do Céu Antunes,Minister of Agriculture
 ->,João Leão,minister for Finance->Minister of State for Finance
 ->,Eduardo Cabrita,Minister of Internal Administration->Minister for Home Affairs
+->,Augusto Santos Silva,Minister of Foreign Affairs->Minister of State for Foreign Affairs
 ->,António Costa,Prime Minister of Portugal->Prime Minister
----,Sebastião de Magalhães Lima,Minister of Education
 +++,Ângela Ferreira,Deputy Minister for Cultural Heritage
 +++,Tiago Antunes,Secretary of State Assistant to the Prime Minister
 +++,Teresa Coelho,Secretary of State for Fisheries
@@ -11,24 +12,17 @@
 +++,Rosa Monteiro,Secretary of State for Citizenship and Equality
 +++,Rita da Cunha Mendes,Secretary of State for Social Action
 +++,Rita Marques,Secretary of State for Tourism
-+++,Ricardo Serrão Santos,Minister of Maritime Affairs
 +++,Ricardo Pinheiro,Secretary of State for Planning
 +++,Pedro Siza Vieira,Minister of State for the Economy and the Digital Transition
-+++,Pedro Nuno Santos,Minister for Infrastructure and Housing
 +++,Patrícia Gaspar,Secretary of State for Home Affairs
 +++,Nuno Artur Silva,"Secretary of State for Cinema, Audiovisual and Media"
-+++,Nelson de Souza,Minister for Planning
 +++,Mário Belo Morgado,Deputy Minister of Justice
 +++,Miguel Cruz,Secretary of State for the Treasury
 +++,Miguel Cabrita,Deputy Minister of Labour and Vocational Training
 +++,Marina Gonçalves,Secretary of State for Housing
-+++,Mariana Vieira da Silva,Minister of State for the Presidency
-+++,Maria do Céu Antunes,Minister of Agriculture
 +++,Maria de Fátima Fonseca,Secretary of State for Innovation and Administrative Modernization
-+++,Manuel Heitor,"Minister for Science, Technology and Higher Education"
 +++,João Torres,"Secretary of State for Trade, Services and Consumer Protection"
 +++,João Sobrinho Teixeira,"Secretary of State for Science, Technology and Higher Education"
-+++,João Pedro Matos Fernandes,Minister for the Environment and Climate Action
 +++,João Paulo Rebelo,Secretary of State for Youth and Sport
 +++,João Nuno Mendes,Secretary of State for Finance
 +++,João Neves,Deputy Minister for the Economy
@@ -43,7 +37,6 @@
 +++,Inês dos Santos Costa,Secretary of State for the Environment
 +++,Inês Ramires,Secretary of State for Education
 +++,Hugo Santos Mendes,Deputy Minister for Communications
-+++,Graça Fonseca,Minister of Culture
 +++,Gabriel Bastos,Secretary of State for Social Security
 +++,Francisco André,Secretary of State for Foreign Affairs and Cooperation
 +++,Eurico Brilhante Dias,Secretary of State for Internationalization
@@ -55,7 +48,6 @@
 +++,Catarina Sarmento e Castro,Secretary of State for Human Resources and War Veterans
 +++,Carlos Miguel,Deputy Minister for Regional Development
 +++,Berta Nunes,Secretary of State for Portuguese Communities
-+++,Augusto Santos Silva,Minister of State for Foreign Affairs
 +++,António Sales,Deputy Minister for Health
 +++,António Mendonça Mendes,Deputy Minister for Finance and Tax Affairs
 +++,Antero Luís,Deputy Minister for Home Affairs
@@ -64,6 +56,3 @@
 +++,Anabela Pedroso,Secretary of State of Justice
 +++,Ana Sofia Antunes,Secretary of State for the Inclusion of Persons with Disabilities
 +++,Ana Paula Zacarias,Secretary of State for European Affairs
-+++,Ana Mendes Godinho,"Minister of Labour, Solidarity and Social Security"
-+++,Ana Abrunhosa,Minister for Territorial Cohesion
-+++,Alexandra Leitão,Minister for Modernization of the State and Public Administration
