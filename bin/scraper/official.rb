@@ -12,7 +12,11 @@ class MemberList
     end
 
     field :position do
-      noko.css('.position').text.tidy
+      noko.css('.title').text.tidy
+    end
+
+    field :start do
+      noko.css('.period div').last.text[/(\d{4}-\d{2}-\d{2})/, 1]
     end
   end
 
@@ -28,7 +32,7 @@ class MemberList
     private
 
     def member_container
-      noko.css('.member')
+      noko.css('div.item')
     end
   end
 end
