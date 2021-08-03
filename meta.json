@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Portugal",
+      "id": "Q45"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q71014092",
+      "start": "2019-10-26",
+      "parent": "Q16850120"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.portugal.gov.pt/en/gc22/government",
+        "title": "Government Composition - XXII Government - Portuguese Republic",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/portugal-cabinet"
 }
