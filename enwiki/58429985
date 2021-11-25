@@ -1,0 +1,188 @@
+{
+  "title": "Manuel Heitor",
+  "pageID": 58429985,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "Government ministers of Portugal",
+    "People from Lisbon"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Manuel Frederico Tojal de Valsassina Heitor (born 1958) is a Portuguese politician serving as Minister of Science, Technology and Higher Education.",
+              "links": [
+                {
+                  "text": "Minister of Science, Technology and Higher Education",
+                  "type": "internal",
+                  "page": "Ministry of Science, Technology and Higher Education"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Manuel Frederico Tojal de Valsassina Heitor"
+                ]
+              }
+            },
+            {
+              "text": "Heitor graduated with a PhD in mechanical engineering from Imperial College London, and did a post-doctoral at the University of California, San Diego.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Imperial College London"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of California, San Diego"
+                }
+              ]
+            },
+            {
+              "text": "From March 2005 to June 2011, Heitor served as the Secretary of State for Science, Technology and Higher Education."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Portuguese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Manuel Heitor"
+          ],
+          "date": "September 2018",
+          "template": "expand portuguese"
+        },
+        {
+          "list": [
+            "2015",
+            "11",
+            "26"
+          ],
+          "since": "y",
+          "lc": "y",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Manuel Heitor"
+          },
+          "image": {
+            "text": "Manuel Heitor (35310730304) (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Science, Technology and Higher Education",
+            "links": [
+              {
+                "text": "Minister of Science, Technology and Higher Education",
+                "type": "internal",
+                "page": "Ministry of Science, Technology and Higher Education"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "António Costa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "António Costa"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 November 2015"
+          },
+          "predecessor": {
+            "text": "Margarida Mano",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Margarida Mano"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1958",
+            "number": 1958
+          },
+          "birth_place": {
+            "text": "Lisbon, Portugal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lisbon"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Imperial College London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Imperial College London"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.rtp.pt/noticias/politica/antonio-costa-indigitado-a-lista-dos-novos-ministros-de-portugal_n876431",
+          "title": "António Costa indigitado: a lista dos novos ministros de Portugal",
+          "publisher": "Radio and Television of Portugal",
+          "date": "24 November 2015",
+          "first": "Christopher",
+          "last": "Marques",
+          "language": "pt",
+          "accessdate": "13 September 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.portugal.gov.pt/en/gc21/ministries/science-technology-and-higher-education",
+          "title": "Manuel Heitor",
+          "work": "portugal.gov.pt",
+          "accessdate": "8 September 2018",
+          "archive-url": "https://web.archive.org/web/20180906124607/https://www.portugal.gov.pt/en/gc21/ministries/science-technology-and-higher-education",
+          "archive-date": "6 September 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "government of portugal"
+        },
+        {
+          "template": "22nd constitutional government of portugal"
+        },
+        {
+          "template": "21st constitutional government of portugal"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "portugal-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "title": "João Pedro Matos Fernandes",
+  "pageID": 58432021,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "Government ministers of Portugal",
+    "People from Águeda"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "João Pedro Matos Fernandes (born 1967) is a Portuguese politician serving as Minister of Environment.",
+              "links": [
+                {
+                  "text": "Minister of Environment",
+                  "type": "internal",
+                  "page": "Ministry of Environment (Portugal)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "João Pedro Matos Fernandes"
+                ]
+              }
+            },
+            {
+              "text": "He has a bachelor's degree in civil engineering from the University of Porto and a master's degree in transport from Instituto Superior Técnico.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Porto"
+                },
+                {
+                  "type": "internal",
+                  "page": "Instituto Superior Técnico"
+                }
+              ]
+            },
+            {
+              "text": "Fernandes served as president of the Portuguese Port Authorities' Association from 2008 to 2010, and as chairman of the Viana do Castelo Port Authority from 2009 to 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Portuguese Port Authorities' Association"
+                },
+                {
+                  "type": "internal",
+                  "page": "Viana do Castelo Port Authority"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is a cousin of actor Pepe Rapajote"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Portuguese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "João Pedro Matos Fernandes"
+          ],
+          "date": "September 2018",
+          "template": "expand portuguese"
+        },
+        {
+          "list": [
+            "2015",
+            "11",
+            "26"
+          ],
+          "since": "y",
+          "lc": "y",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "João Pedro Matos Fernandes"
+          },
+          "image": {
+            "text": "João Pedro Matos Fernandes, Minister of the Environment and Energy Transition, Portugal (33730864708) (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Environment",
+            "links": [
+              {
+                "text": "Minister of Environment",
+                "type": "internal",
+                "page": "Ministry of Environment (Portugal)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "António Costa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "António Costa"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 November 2015"
+          },
+          "predecessor": {
+            "text": "Jorge Moreira da Silva",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jorge Moreira da Silva"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1967",
+            "number": 1967
+          },
+          "birth_place": {
+            "text": "Águeda, Portugal",
+            "links": [
+              {
+                "text": "Águeda",
+                "type": "internal",
+                "page": "Águeda"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Porto\n\nInstituto Superior Técnico",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Porto"
+              },
+              {
+                "type": "internal",
+                "page": "Instituto Superior Técnico"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.rtp.pt/noticias/politica/antonio-costa-indigitado-a-lista-dos-novos-ministros-de-portugal_n876431",
+          "title": "António Costa indigitado: a lista dos novos ministros de Portugal",
+          "publisher": "Radio and Television of Portugal",
+          "date": "24 November 2015",
+          "first": "Christopher",
+          "last": "Marques",
+          "language": "pt",
+          "accessdate": "13 September 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.portugal.gov.pt/en/gc21/ministries/environment",
+          "title": "João Pedro Matos Fernandes",
+          "work": "portugal.gov.pt",
+          "accessdate": "8 September 2018",
+          "archive-url": "https://web.archive.org/web/20180908134541/https://www.portugal.gov.pt/en/gc21/ministries/environment",
+          "archive-date": "8 September 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He is a cousin of Narcos actor Pepe Ratazope"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "government of portugal"
+        },
+        {
+          "template": "22nd constitutional government of portugal"
+        },
+        {
+          "template": "21st constitutional government of portugal"
+        },
+        {
+          "template": "portugal-politician-stub"
+        }
+      ]
+    }
+  ]
+}

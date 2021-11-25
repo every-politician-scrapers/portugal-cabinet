@@ -1,0 +1,185 @@
+{
+  "title": "Tiago Brandão Rodrigues",
+  "pageID": 58431118,
+  "categories": [
+    "1977 births",
+    "Living people",
+    "Portuguese politicians",
+    "Education ministers of Portugal",
+    "People from Braga"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tiago Brandão Rodrigues (born 1977) is a Portuguese politician serving as Minister of Education.",
+              "links": [
+                {
+                  "text": "Minister of Education",
+                  "type": "internal",
+                  "page": "Ministry of Education (Portugal)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tiago Brandão Rodrigues"
+                ]
+              }
+            },
+            {
+              "text": "He has a PhD in biochemistry from the University of Coimbra.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Coimbra"
+                }
+              ]
+            },
+            {
+              "text": "Rodrigues was elected by the Viana do Castelo constituency to the Assembly of the Republic in 2015.",
+              "links": [
+                {
+                  "text": "Viana do Castelo constituency",
+                  "type": "internal",
+                  "page": "Viana do Castelo District"
+                },
+                {
+                  "text": "Assembly of the Republic",
+                  "type": "internal",
+                  "page": "Assembly of the Republic (Portugal)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Portuguese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Tiago Brandão Rodrigues"
+          ],
+          "date": "September 2018",
+          "template": "expand portuguese"
+        },
+        {
+          "list": [
+            "2015",
+            "11",
+            "26"
+          ],
+          "since": "y",
+          "lc": "y",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tiago Brandão Rodrigues"
+          },
+          "image": {
+            "text": "Web Summit 2017 - Day 1 DG2 2759 (38241612491) (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Education",
+            "links": [
+              {
+                "text": "Minister of Education",
+                "type": "internal",
+                "page": "Ministry of Education (Portugal)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "António Costa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "António Costa"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 November 2015"
+          },
+          "predecessor": {
+            "text": "Margarida Mano",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Margarida Mano"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1977",
+            "number": 1977
+          },
+          "birth_place": {
+            "text": "Braga, Portugal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Braga"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Coimbra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Coimbra"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.portugal.gov.pt/en/gc21/ministries/education",
+          "title": "Tiago Brandão Rodrigues",
+          "work": "portugal.gov.pt",
+          "accessdate": "8 September 2018",
+          "archive-url": "https://web.archive.org/web/20180908134247/https://www.portugal.gov.pt/en/gc21/ministries/education",
+          "archive-date": "8 September 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "government of portugal"
+        },
+        {
+          "template": "22nd constitutional government of portugal"
+        },
+        {
+          "template": "21st constitutional government of portugal"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "portugal-politician-stub"
+        }
+      ]
+    }
+  ]
+}
