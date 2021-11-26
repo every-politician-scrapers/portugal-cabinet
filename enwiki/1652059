@@ -1406,9 +1406,11 @@
               "text": "The procedure was performed by Eduardo Barroso, a veteran surgeon who is also a close friend of the President since early childhood.",
               "links": [
                 {
-                  "text": "Eduardo Barroso",
-                  "type": "internal",
-                  "page": ":pt:Eduardo Barroso"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "pt"
+                  }
                 }
               ]
             },
