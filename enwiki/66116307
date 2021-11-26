@@ -73,8 +73,11 @@
               "links": [
                 {
                   "text": "Centre for Social Studies",
-                  "type": "internal",
-                  "page": ":pt:Centro de Estudos Sociais da Universidade de Coimbra"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "pt"
+                  }
                 }
               ]
             }
@@ -134,8 +137,11 @@
                 },
                 {
                   "text": "EuroACE",
-                  "type": "internal",
-                  "page": ":es:Eurorregión EuroACE"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 },
                 {
                   "type": "internal",
@@ -173,9 +179,11 @@
                   "page": "CEO"
                 },
                 {
-                  "text": "Fábricas Lusitana",
-                  "type": "internal",
-                  "page": ":pt:Fábricas Lusitana"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "pt"
+                  }
                 },
                 {
                   "text": "flour",
