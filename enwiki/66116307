@@ -73,11 +73,8 @@
               "links": [
                 {
                   "text": "Centre for Social Studies",
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "pt"
-                  }
+                  "type": "internal",
+                  "page": ":pt:Centro de Estudos Sociais da Universidade de Coimbra"
                 }
               ]
             }
@@ -137,11 +134,8 @@
                 },
                 {
                   "text": "EuroACE",
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "es"
-                  }
+                  "type": "internal",
+                  "page": ":es:Eurorregión EuroACE"
                 },
                 {
                   "type": "internal",
@@ -179,11 +173,9 @@
                   "page": "CEO"
                 },
                 {
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "pt"
-                  }
+                  "text": "Fábricas Lusitana",
+                  "type": "internal",
+                  "page": ":pt:Fábricas Lusitana"
                 },
                 {
                   "text": "flour",
@@ -362,24 +354,6 @@
           "access-date": "16 December 2020",
           "template": "citation",
           "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "government of portugal"
-        },
-        {
-          "template": "22nd constitutional government of portugal"
-        },
-        {
-          "template": "portugal-politician-stub"
         }
       ]
     }

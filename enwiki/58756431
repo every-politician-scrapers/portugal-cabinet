@@ -214,30 +214,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "government of portugal"
-        },
-        {
-          "template": "22nd constitutional government of portugal"
-        },
-        {
-          "template": "21st constitutional government of portugal"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "portugal-politician-stub"
-        }
-      ]
     }
   ]
 }

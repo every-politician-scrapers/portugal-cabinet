@@ -258,58 +258,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "Personal life",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Cabrita is graduated in Law from the University of Lisbon School of Law.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "University of Lisbon"
-                }
-              ]
-            },
-            {
-              "text": "He is married to Ana Paula Vitorino, also a member of António Costa's cabinet as Minister of the Sea.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ana Paula Vitorino"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "3"
-          ],
-          "template": "reflist"
-        },
-        {
-          "template": "22nd constitutional government of portugal"
-        },
-        {
-          "template": "21st constitutional government of portugal"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "portugal-bio-stub"
-        }
-      ]
     }
   ]
 }

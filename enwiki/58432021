@@ -181,36 +181,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "He is a cousin of Narcos actor Pepe Ratazope"
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "government of portugal"
-        },
-        {
-          "template": "22nd constitutional government of portugal"
-        },
-        {
-          "template": "21st constitutional government of portugal"
-        },
-        {
-          "template": "portugal-politician-stub"
-        }
-      ]
     }
   ]
 }
