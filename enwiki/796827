@@ -366,8 +366,11 @@
             "links": [
               {
                 "text": "Rita",
-                "type": "internal",
-                "page": ":pt:Rita Ferro Rodrigues"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "pt"
+                }
               }
             ]
           },
