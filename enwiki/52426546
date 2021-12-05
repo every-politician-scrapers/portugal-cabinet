@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Eduardo Arménio do Nascimento Cabrita (26 September 1961, in Barreiro) is a Portuguese legal professional and politician, acting as Minister Assistant in the cabinet of Prime Minister António Costa since 26 November 2015.",
+              "text": "Eduardo Arménio do Nascimento Cabrita (26 September 1961, in Barreiro) is a Portuguese legal professional and politician who served as Minister Assistant in the cabinet of Prime Minister António Costa from 2015 until 2021.",
               "links": [
                 {
                   "text": "Barreiro",
@@ -67,6 +67,32 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his time in government, Cabrita faced criticism over a range of incidents, including the death of a Ukrainian immigrant in custody at Lisbon airport; authorization for celebrations of the national football championship that were blamed for spreading COVID-19; and his handling of a coronavirus outbreak among migrant farm hands.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            },
+            {
+              "text": "In 3 December 2021, he resigned after his driver was accused of “negligent homicide” over the death of a highway worker struck by his government BMW, being substituted on the day after by the Minister of Justice Francisca Van Dunem.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "BMW"
+                },
+                {
+                  "type": "internal",
+                  "page": "Francisca Van Dunem"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
@@ -107,6 +133,9 @@
           "term_start": {
             "text": "21 October 2017"
           },
+          "term_end": {
+            "text": "4 December 2021"
+          },
           "primeminister": {
             "text": "António Costa",
             "links": [
@@ -122,6 +151,15 @@
               {
                 "type": "internal",
                 "page": "Constança Urbano de Sousa"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Francisca Van Dunem",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Francisca Van Dunem"
               }
             ]
           },
@@ -236,6 +274,24 @@
           "access-date": "29 November 2016",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "url": "http://www.portugal.gov.pt/en/ministries/madj/the-team/minister/eduardo-cabrita.aspx",
