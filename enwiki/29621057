@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Francisca Eugénia da Silva Dias Van Dunem (born 5 November 1955, in Luanda, Angola) is an Angolan-Portuguese lawyer and politician who has been serving as the Portuguese Minister of Justice since 26 November 2015, in António Costa's XXI and XXII Constitutional Governments.",
+              "text": "Francisca Eugénia da Silva Dias Van Dunem (born 5 November 1955, in Luanda, Angola) is an Angolan-Portuguese lawyer and politician who has been serving as the Portuguese Minister of Justice since 26 November 2015, in António Costa's XXI and XXII Constitutional Governments, and Minister of Internal Administration since 4 December 2021, heading both ministries since.",
               "links": [
                 {
                   "type": "internal",
@@ -59,6 +59,11 @@
                   "text": "XXII Constitutional Governments",
                   "type": "internal",
                   "page": "XXII Constitutional Government of Portugal"
+                },
+                {
+                  "text": " Minister of Internal Administration",
+                  "type": "internal",
+                  "page": "Ministry of Internal Administration (Portugal) "
                 }
               ],
               "formatting": {
@@ -127,6 +132,37 @@
             "text": "26 November 2015"
           },
           "primeminister": {
+            "text": "António Costa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "António Costa"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Internal Administration",
+            "links": [
+              {
+                "text": "Minister of Internal Administration",
+                "type": "internal",
+                "page": "Ministry of Internal Administration (Portugal)"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Eduardo Cabrita",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eduardo Cabrita"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 December 2021"
+          },
+          "primeminister1": {
             "text": "António Costa",
             "links": [
               {
