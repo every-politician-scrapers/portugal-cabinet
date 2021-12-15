@@ -108,6 +108,10 @@
       ],
       "templates": [
         {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
           "list": [
             "Augusto Santos Silva",
             "pt"
@@ -118,6 +122,7 @@
           "year": "1956",
           "month": "08",
           "day": "20",
+          "df": "y",
           "template": "birth date and age"
         }
       ],
@@ -138,6 +143,9 @@
           },
           "image": {
             "text": "2019 05 31 Augusto Santos Silva.jpg"
+          },
+          "caption": {
+            "text": "Augusto Santos Silva in 2019"
           },
           "office2": {
             "text": "Minister of National Defence",
