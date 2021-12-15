@@ -173,6 +173,9 @@
           "image": {
             "text": "António Costa em 2017.jpg"
           },
+          "caption": {
+            "text": "António Costa in 2017"
+          },
           "office": {
             "text": "Prime Minister of Portugal",
             "links": [
@@ -468,12 +471,28 @@
             ]
           },
           "term_start8": {
-            "text": "6 October 1991"
+            "text": "6 April 2002"
           },
           "term_end8": {
             "text": "13 June 2004"
           },
           "constituency8": {
+            "text": "Leiria",
+            "links": [
+              {
+                "text": "Leiria",
+                "type": "internal",
+                "page": "Leiria District"
+              }
+            ]
+          },
+          "term_start9": {
+            "text": "6 October 1991"
+          },
+          "term_end9": {
+            "text": "28 October 1995"
+          },
+          "constituency9": {
             "text": "Lisbon",
             "links": [
               {
@@ -483,13 +502,13 @@
               }
             ]
           },
-          "office9": {
+          "office10": {
             "text": "Member of the European Parliament\n\nfor Portugal"
           },
-          "term_start9": {
+          "term_start10": {
             "text": "20 July 2004"
           },
-          "term_end9": {
+          "term_end10": {
             "text": "11 March 2005"
           },
           "birth_name": {

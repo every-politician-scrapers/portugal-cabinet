@@ -87,6 +87,9 @@
           "image": {
             "text": "Mariana Vieira da Silva (Assim é Portugal), cropped.png"
           },
+          "caption": {
+            "text": "Mariana Vieira da Silva in 2018"
+          },
           "office": {
             "text": "Minister of the Premiership",
             "links": [
@@ -176,7 +179,7 @@
             "text": "May 8, 1978"
           },
           "birth_place": {
-            "text": "Lisboa",
+            "text": "Lisboa, Portugal",
             "links": [
               {
                 "type": "internal",
