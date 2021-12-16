@@ -1,0 +1,137 @@
+{
+  "title": "Alexandra Leitão",
+  "pageID": 69511318,
+  "categories": [
+    "Living people",
+    "1973 births",
+    "Portuguese jurists",
+    "21st-century Portuguese politicians",
+    "21st-century Portuguese women politicians",
+    "Government ministers of Portugal",
+    "Women government ministers of Portugal",
+    "University of Lisbon alumni",
+    "University of Lisbon faculty"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexandra Ludomila Ribeiro Fernandes Leitão (born April 8, 1973 ) is a Portuguese jurist and professor of law.",
+              "links": [
+                {
+                  "text": "jurist",
+                  "type": "internal",
+                  "page": "jurist"
+                },
+                {
+                  "text": "professor",
+                  "type": "internal",
+                  "page": "professor"
+                },
+                {
+                  "text": "law",
+                  "type": "internal",
+                  "page": "law"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alexandra Ludomila Ribeiro Fernandes Leitão"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Portuguese politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1973",
+          "month": "4",
+          "day": "8",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office3": {
+            "text": "Minister for the Modernization of the State and Public Administration"
+          },
+          "term_start3": {
+            "text": "October 26, 2019"
+          },
+          "office6": {
+            "text": "Assistant Secretary of State for Education",
+            "links": [
+              {
+                "text": "Assistant Secretary of State for Education",
+                "type": "internal",
+                "page": "Ministry of Education (Portugal)"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "November 26, 2015"
+          },
+          "term_end6": {
+            "text": "October 26, 2019"
+          },
+          "birth_date": {
+            "text": "April 8, 1973"
+          },
+          "birth_place": {
+            "text": "Alvalade, Lisbon, Portugal",
+            "links": [
+              {
+                "text": "Alvalade",
+                "type": "internal",
+                "page": "Alvalade (Lisbon)"
+              },
+              {
+                "type": "internal",
+                "page": "Lisbon"
+              },
+              {
+                "type": "internal",
+                "page": "Portugal"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party (Portugal)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}
