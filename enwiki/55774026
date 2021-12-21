@@ -100,6 +100,10 @@
       ],
       "templates": [
         {
+          "description": "Portuguese politician and banker",
+          "template": "short description"
+        },
+        {
           "list": [
             "the Nicaraguan boxer",
             "Mario Centeno (boxer)"
@@ -109,10 +113,6 @@
         {
           "date": "December 2020",
           "template": "use dmy dates"
-        },
-        {
-          "description": "Portuguese politician and banker",
-          "template": "short description"
         },
         {
           "year": "1966",
@@ -233,7 +233,7 @@
             ]
           },
           "office3": {
-            "text": "Member of the Assembly of the Republic for Lisbon",
+            "text": "Member of the Assembly of the Republic\nfor Lisbon",
             "links": [
               {
                 "text": "Assembly of the Republic",
@@ -279,7 +279,7 @@
             ]
           },
           "education": {
-            "text": "University of Lisbon Harvard University",
+            "text": "University of Lisbon\nHarvard University",
             "links": [
               {
                 "type": "internal",
