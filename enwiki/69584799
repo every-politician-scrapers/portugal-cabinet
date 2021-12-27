@@ -1,0 +1,153 @@
+{
+  "title": "Maria do Céu Antunes",
+  "pageID": 69584799,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Agriculture ministers of Portugal"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maria do Céu de Oliveira Antunes (born in Abrantes on July 10, 1970) is a Portuguese politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abrantes"
+                },
+                {
+                  "text": "Portuguese",
+                  "type": "internal",
+                  "page": "Portugal"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Maria do Céu de Oliveira Antunes"
+                ]
+              }
+            },
+            {
+              "text": "She is responsible for the Ministry of Agriculture in XXII Constitutional Government since October 26, 2019.",
+              "links": [
+                {
+                  "text": "XXII Constitutional Government",
+                  "type": "internal",
+                  "page": "XXII Constitutional Government of Portugal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before that, she was Secretary of State for Regional Development in the XXI Constitutional Government of February 18 to October 26, 2019, and President of the Municipality of Abrantes for 9 years.",
+              "links": [
+                {
+                  "text": "XXI Constitutional Government",
+                  "type": "internal",
+                  "page": "XXI Constitutional Government of Portugal"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President (government title)"
+                },
+                {
+                  "text": "Municipality",
+                  "type": "internal",
+                  "page": "Câmara municipal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abrantes"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Portuguese politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1970",
+          "month": "7",
+          "day": "10",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office3": {
+            "text": "Minister of Agriculture"
+          },
+          "term_start3": {
+            "text": "October 26, 2019"
+          },
+          "birth_date": {
+            "text": "July 10, 1970"
+          },
+          "birth_place": {
+            "text": "Abrantes, Portugal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abrantes"
+              },
+              {
+                "type": "internal",
+                "page": "Portugal"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party (Portugal)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "Publicada por tomarnarede",
+          "url": "http://tomarnarede.blogspot.com/2019/02/presidente-da-camara-de-abrantes.html",
+          "title": "Tomar na Rede: Presidente da câmara de Abrantes nomeada Secretária de Estado do Desenvolvimento Regional",
+          "publisher": "Tomarnarede.blogspot.com",
+          "accessdate": "2021-12-24",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.portugal.gov.pt/pt/gc22/area-de-governo/agricultura/ministro",
+          "title": "Maria do Céu Antunes - Ministra da Agricultura - Agricultura - XXII Governo - República Portuguesa",
+          "publisher": "Portugal.gov.pt",
+          "accessdate": "2021-12-24",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
