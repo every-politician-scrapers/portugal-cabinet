@@ -1,0 +1,168 @@
+{
+  "title": "Pedro Nuno Santos",
+  "pageID": 69584741,
+  "categories": [
+    "1977 births",
+    "Living people",
+    "Socialist Party (Portugal) politicians",
+    "Members of the Assembly of the Republic (Portugal)",
+    "Government ministers of Portugal",
+    "Recipients of the Order of Merit of the Federal Republic of Germany"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pedro Nuno de Oliveira Santos (São João da Madeira, São João da Madeira, born April 13, 1977) is an economist, politician and Portuguese minister of the Socialist Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "São João da Madeira"
+                },
+                {
+                  "text": "economist",
+                  "type": "internal",
+                  "page": "economist"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "Portuguese",
+                  "type": "internal",
+                  "page": "Portugal"
+                },
+                {
+                  "text": "Socialist Party",
+                  "type": "internal",
+                  "page": "Socialist Party (Portugal)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Pedro Nuno de Oliveira Santos"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has a degree in economics from ISEG-UTL."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was secretary general of Socialist Youth, from 2004 to 2008.",
+              "links": [
+                {
+                  "text": "Socialist Youth",
+                  "type": "internal",
+                  "page": "Socialist Youth (Portugal)"
+                }
+              ]
+            },
+            {
+              "text": "He was a member of the Assembly of the Republic in the 10th and 12th Legislatures."
+            },
+            {
+              "text": "He was the Secretary of State for Parliamentary Affairs, from November 2015 to February 2019."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2019 he was appointed Minister of Infrastructure and Housing, a position he held in the XXII Government.",
+              "links": [
+                {
+                  "text": "XXII Government",
+                  "type": "internal",
+                  "page": "XXII Constitutional Government of Portugal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Portuguese politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "cleanup bare urls"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1977",
+          "month": "4",
+          "day": "13",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office3": {
+            "text": "Minister of Infrastructure and Housing"
+          },
+          "term_start3": {
+            "text": "February 18, 2019"
+          },
+          "office6": {
+            "text": "Secretary of State for Parliamentary Affairs"
+          },
+          "term_start6": {
+            "text": "November 26, 2015"
+          },
+          "term_end6": {
+            "text": "February 18, 2019"
+          },
+          "birth_date": {
+            "text": "April 13, 1977"
+          },
+          "birth_place": {
+            "text": "São João da Madeira, São João da Madeira, Portugal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "São João da Madeira"
+              },
+              {
+                "type": "internal",
+                "page": "Portugal"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party (Portugal)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
