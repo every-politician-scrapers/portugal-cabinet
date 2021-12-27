@@ -1,4 +1,6 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q322459,President of Portugal,Q45,Q45,,,1911-08-24,,Q183426,,President of Portugal
+Q1723031,Prime Minister of Portugal,Q45,Q45,Q25909451,Q918199,1974-05-16,,Q20045955,,Prime Minister of Portugal
 Q25909451,Deputy Prime Minister of Portugal,Q45,Q45,,,,,,,
 Q107815192,Minister of Agriculture,Q45,Q45,,Q20045526,,,,,
 Q107815497,Minister of Culture,Q45,Q45,,Q20045527,,,,,
@@ -23,6 +25,7 @@ Q61927426,Minister for Qualification and Employment,Q45,Q45,,,,,,,
 Q107815200,"Minister for Science, Technology and Higher Education",Q45,Q45,,,,,,,
 Q25917009,Minister of Social Infrastructure,Q45,Q45,,,,,,,
 Q107815820,Minister for Territorial Cohesion,Q45,Q45,,,,,,,
+Q105715009,Minister without Portfolio,Q45,Q45,,Q18483707,,,,,
 Q108123940,Deputy Minister for Cultural Heritage,Q45,Q45,,,,,,,
 Q107815186,Minister of State for the Presidency,Q45,Q45,,,,,,,
 Q107816158,Minister of State for the Economy and the Digital Transition,Q45,Q45,,,,,,,
