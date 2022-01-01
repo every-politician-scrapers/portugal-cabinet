@@ -101,10 +101,6 @@
         },
         {
           "date": "December 2021",
-          "template": "cleanup bare urls"
-        },
-        {
-          "date": "December 2021",
           "template": "use mdy dates"
         },
         {
