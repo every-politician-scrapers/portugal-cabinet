@@ -155,31 +155,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.rtp.pt/noticias/politica/antonio-costa-indigitado-a-lista-dos-novos-ministros-de-portugal_n876431",
-          "title": "António Costa indigitado: a lista dos novos ministros de Portugal",
-          "publisher": "Radio and Television of Portugal",
-          "date": "24 November 2015",
-          "first": "Christopher",
-          "last": "Marques",
-          "language": "pt",
-          "accessdate": "13 September 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.portugal.gov.pt/en/gc21/ministries/environment",
-          "title": "João Pedro Matos Fernandes",
-          "work": "portugal.gov.pt",
-          "accessdate": "8 September 2018",
-          "archive-url": "https://web.archive.org/web/20180908134541/https://www.portugal.gov.pt/en/gc21/ministries/environment",
-          "archive-date": "8 September 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

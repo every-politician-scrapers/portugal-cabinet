@@ -244,28 +244,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Van Dunem é a grande surpresa na Justiça",
-          "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/van_dunen_e_a_grande_surpresa_na_justica.html",
-          "journal": "Jornal de Negócios",
-          "date": "25 November 2015",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
