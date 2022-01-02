@@ -292,39 +292,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://portocanal.sapo.pt/noticia/75206/",
-          "title": "Mário Centeno: \"Tenho a convicção que vamos aprovar todos os orçamentos da legislatura\"",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://jornaleconomico.sapo.pt/noticias/oficial-centeno-e-o-novo-governador-do-banco-de-portugal-613934",
-          "title": "Oficial: Mário Centeno é o novo governador do Banco de Portugal",
-          "last1": "Alves",
-          "first1": "Maria Teixeira",
-          "last2": "Ataíde",
-          "first2": "Ânia",
-          "date": "16 July 2020",
-          "publisher": "Jornal Económico",
-          "access-date": "16 July 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

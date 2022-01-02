@@ -174,45 +174,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.algarvedailynews.com/news/15293-new-ministers-for-defence-culture-health-and-economy",
-          "title": "New ministers for Defence, Culture, Health and Economy",
-          "work": "Algarve Daily News",
-          "date": "14 October 2018",
-          "accessdate": "15 October 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://expresso.sapo.pt/politica/2018-10-14-Marta-Temido-subsititui-Adalberto-Campos-Fernandes-na-Saude",
-          "title": "Marta Temido subsititui Adalberto Campos Fernandes na Saúde",
-          "work": "Expresso",
-          "date": "14 October 2018",
-          "accessdate": "15 October 2018",
-          "language": "pt",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.publico.pt/2018/10/14/politica/noticia/gomes-cravinho-e-ministro-da-defesa-marta-temido-da-saude-graca-fonseca-da-cultura-e-siza-vieira-da-economia-1847472",
-          "title": "Uma remodelação com peso político",
-          "work": "Público",
-          "date": "14 October 2018",
-          "first": "São José",
-          "last": "Almeida",
-          "accessdate": "15 October 2018",
-          "language": "pt",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

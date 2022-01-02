@@ -155,35 +155,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.dinheirovivo.pt/outras/935152/",
-          "title": "Eduardo Cabrita será o novo ministro da Administração Interna",
-          "date": "18 October 2017",
-          "work": "Dinheiro Vivo",
-          "language": "pt",
-          "access-date": "17 January 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.reuters.com/article/us-portugal-government/portugals-premier-reshuffles-cabinet-appoints-new-economy-minister-idUSKCN1MO0L0",
-          "title": "Portugal's premier reshuffles cabinet, appoints new economy minister",
-          "publisher": "Reuters",
-          "date": "14 October 2018",
-          "first": "Axel",
-          "last": "Bugge",
-          "access-date": "17 January 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

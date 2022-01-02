@@ -216,31 +216,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Tavares",
-          "first": "Rita",
-          "date": "13 April 2018",
-          "title": "Mariana Vieira da Silva: a mulher que atende o primeiro-ministro até dentro de água",
-          "trans-title": "Mariana Vieira da Silva: the woman who answers the Prime Minister's call even while swimming",
-          "url": "https://observador.pt/especiais/mariana-vieira-da-silva-a-mulher-que-atende-o-primeiro-ministro-ate-dentro-de-agua/",
-          "url-access": "subscription",
-          "language": "pt",
-          "work": "Observador",
-          "access-date": "28 December 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.portugal.gov.pt/pt/gc22/area-de-governo/presidencia/ministro",
-          "title": "Mariana Vieira da Silva, Ministra de Estado e da Presidência",
-          "language": "pt",
-          "work": "portugal.gov.pt",
-          "accessdate": "28 December 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

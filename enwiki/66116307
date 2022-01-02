@@ -321,48 +321,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "Martins",
-          "first1": "Christiana",
-          "last2": "Mateus",
-          "first2": "Joana Nunes",
-          "last3": "Matos",
-          "first3": "Vítor",
-          "date": "15 January 2020",
-          "title": "Ana Abrunhosa, ministra da Coesão: “O Ministério foi feito um bocadinho à minha medida”",
-          "trans-title": "Ana Abrunhosa, Minister for Cohesion: \"The Ministry was somewhat tailored for me\"",
-          "url": "https://expresso.pt/sociedade/2020-01-25-Ana-Abrunhosa-ministra-da-Coesao-O-Ministerio-foi-feito-um-bocadinho-a-minha-medida",
-          "url-access": "subscription",
-          "language": "pt",
-          "work": "Expresso",
-          "access-date": "16 December 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.portugal.gov.pt/en/gc22/ministries/territorial-cohesion",
-          "title": "Ana Abrunhosa, Minister for Territorial Cohesion",
-          "work": "portugal.gov.pt",
-          "accessdate": "16 December 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Lito",
-          "first1": "Raquel",
-          "date": "17 November 2019",
-          "title": "Ana Abrunhosa: ministra sim, condessa um dia",
-          "trans-title": "Ana Abrunhosa: minister, yes; countess, one day",
-          "url": "https://www.sabado.pt/portugal/detalhe/ana-abrunhosa-ministra-sim-condessa-um-dia",
-          "url-access": "subscription",
-          "language": "pt",
-          "work": "Sábado",
-          "access-date": "16 December 2020",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
