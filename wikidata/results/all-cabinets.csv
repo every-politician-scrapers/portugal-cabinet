@@ -1,85 +1,85 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q2233137,Q2233137,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9546488,Q9546488,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9546914,Q9546914,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9550205,Q9550205,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9550270,Q9550270,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9550363,Q9550363,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9550835,Q9550835,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9551493,Q9551493,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9551502,Q9551502,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9551566,Q9551566,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9551758,Q9551758,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9551950,Q9551950,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9552087,Q9552087,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9552243,Q9552243,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9552577,Q9552577,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9552981,Q9552981,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9553013,Q9553013,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9553037,Q9553037,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9553068,Q9553068,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9554237,Q9554237,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9554795,Q9554795,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16142109,Q16142109,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16142352,Q16142352,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16142461,Q16142461,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16142466,Q16142466,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16142802,Q16142802,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16142878,Q16142878,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16142910,Q16142910,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16142921,Q16142921,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16142985,Q16142985,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16143028,Q16143028,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16143246,Q16143246,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16143271,Q16143271,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16143387,Q16143387,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16143763,Q16143763,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16484161,Q16484161,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16484249,Q16484249,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16484295,Q16484295,,,,,,,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q10290771,Q10290771,1910-10-05,11,,,1911-09-04,11,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9549746,Q9549746,1911-09-03,11,,,1911-11-12,11,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9552938,Q9552938,1912-06-16,11,,,1913-01-09,11,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9545740,Q9545740,1915-05-15,11,,,1915-05-29,11,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9550099,Q9550099,1920-01-15,11,,,1920-01-15,11,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q9550493,Q9550493,1920-07-19,11,,,1920-11-20,11,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16484124,Q16484124,1921-03-02,11,,,1921-05-23,11,,,Q16850120,Council of Ministers,,,,,,,,,,
-,Q16141971,Q16141971,1926-05-30,11,,,1926-06-17,11,,,Q16850120,Council of Ministers,,,,,,,,,Q16142871,Q16142871
-,Q16142871,Q16142871,1926-06-17,11,,,1926-07-09,11,,,Q16850120,Council of Ministers,,,,,,,Q16141971,Q16141971,Q16484140,Q16484140
-,Q16484140,Q16484140,1926-07-09,11,,,1928-04-18,11,,,Q16850120,Council of Ministers,,,,,,,Q16142871,Q16142871,Q9552934,Q9552934
-,Q9552934,Q9552934,1928-04-18,11,,,1928-11-10,11,,,Q16850120,Council of Ministers,,,,,,,Q16484140,Q16484140,Q9553419,Q9553419
-,Q9553419,Q9553419,1928-11-10,11,,,1929-07-08,11,,,Q16850120,Council of Ministers,,,,,,,Q9552934,Q9552934,Q4375952,Q4375952
-,Q4375952,Q4375952,1929-07-08,11,,,1930-01-21,11,,,Q16850120,Council of Ministers,,,,,,,Q9553419,Q9553419,Q9554230,Q9554230
-,Q9554230,Q9554230,1930-01-21,11,,,1932-07-05,11,,,Q16850120,Council of Ministers,,,,,,,Q4375952,Q4375952,Q9554609,Q9554609
-,Q9554609,Q9554609,1932-07-05,11,,,1933-04-11,11,,,Q16850120,Council of Ministers,,,,,,,Q9554230,Q9554230,Q16144675,Q16144675
-,Q16144675,Q16144675,1933-04-11,11,,,1936-01-18,11,,,Q16850120,Council of Ministers,,,,,,,Q9554609,Q9554609,Q16482723,Q16482723
-,Q16482723,Q16482723,1936-01-18,11,,,1968-09-27,11,,,Q16850120,Council of Ministers,,,,,,,Q16144675,Q16144675,Q16142337,Q16142337
-,Q16142337,Q16142337,1968-09-27,11,,,1974-04-25,11,,,Q16850120,Council of Ministers,,,,,Q1701778,National Salvation Junta,Q16482723,Q16482723,,
-,Q3148022,I Provisional Government of Portugal,1974-05-16,11,,,1974-07-17,11,,,Q16850120,Council of Ministers,,,Q1701778,National Salvation Junta,,,,,Q3146704,II Provisional Government of Portugal
-,Q3146704,II Provisional Government of Portugal,1974-07-17,11,,,1974-09-30,11,,,Q16850120,Council of Ministers,,,,,,,Q3148022,I Provisional Government of Portugal,Q3146693,III Provisional Government of Portugal
-,Q3146693,III Provisional Government of Portugal,1974-09-30,11,,,1975-03-26,11,,,Q16850120,Council of Ministers,,,,,,,Q3146704,II Provisional Government of Portugal,Q3147006,IV Provisional Government of Portugal
-,Q3147006,IV Provisional Government of Portugal,1975-03-26,11,,,1975-08-08,11,,,Q16850120,Council of Ministers,,,,,,,Q3146693,III Provisional Government of Portugal,Q10388602,V Provisional Government of Portugal
-,Q10388602,V Provisional Government of Portugal,1975-08-08,11,,,1975-09-19,11,,,Q16850120,Council of Ministers,,,,,,,Q3147006,IV Provisional Government of Portugal,Q10388573,VI Provisional Government of Portugal
-,Q10388573,VI Provisional Government of Portugal,1975-09-19,11,,,1976-07-23,11,,,Q16850120,Council of Ministers,,,,,Q678051,I Constitutional Government of Portugal,Q10388602,V Provisional Government of Portugal,,
-,Q678051,I Constitutional Government of Portugal,1976-07-23,11,,,1978-01-23,11,,,Q16850120,Council of Ministers,,,Q10388573,VI Provisional Government of Portugal,,,,,Q683287,II Constitutional Government of Portugal
-,Q683287,II Constitutional Government of Portugal,1978-01-23,11,,,1978-08-29,11,,,Q16850120,Council of Ministers,,,,,,,Q678051,I Constitutional Government of Portugal,Q1720177,III Constitutional Government of Portugal
-,Q1720177,III Constitutional Government of Portugal,1978-08-29,11,,,1978-11-22,11,,,Q16850120,Council of Ministers,,,,,,,Q683287,II Constitutional Government of Portugal,Q1281360,IV Constitutional Government of Portugal
-,Q1281360,IV Constitutional Government of Portugal,1978-11-22,11,,,1979-07-07,11,,,Q16850120,Council of Ministers,,,,,,,Q1720177,III Constitutional Government of Portugal,Q10388603,V Constitutional Government of Portugal
-,Q10388603,V Constitutional Government of Portugal,1979-07-07,11,,,1980-01-03,11,,,Q16850120,Council of Ministers,,,,,,,Q1281360,IV Constitutional Government of Portugal,Q10388572,VI Constitutional Government of Portugal
-,Q10388572,VI Constitutional Government of Portugal,1980-01-03,11,,,1981-01-09,11,,,Q16850120,Council of Ministers,,,,,,,Q10388603,V Constitutional Government of Portugal,Q3552948,VII Constitutional Government of Portugal
-,Q3552948,VII Constitutional Government of Portugal,1981-01-09,11,,,1981-09-04,11,,,Q16850120,Council of Ministers,,,,,,,Q10388572,VI Constitutional Government of Portugal,Q3552943,VIII Constitutional Government of Portugal
-,Q3552943,VIII Constitutional Government of Portugal,1981-09-04,11,,,1983-06-09,11,,,Q16850120,Council of Ministers,,,,,,,Q3552948,VII Constitutional Government of Portugal,Q9006487,IX Constitutional Government of Portugal
-,Q9006487,IX Constitutional Government of Portugal,1983-06-09,11,,,1985-11-06,11,,,Q16850120,Council of Ministers,,,,,,,Q3552943,VIII Constitutional Government of Portugal,Q3570848,X Constitutional Government of Portugal
-,Q3570848,X Constitutional Government of Portugal,1985-11-06,11,,,1987-08-17,11,,,Q16850120,Council of Ministers,,,,,,,Q9006487,IX Constitutional Government of Portugal,Q3570393,XI Constitutional Government of Portugal
-,Q3570393,XI Constitutional Government of Portugal,1987-08-17,11,,,1991-10-31,11,,,Q16850120,Council of Ministers,,,,,,,Q3570848,X Constitutional Government of Portugal,Q3570375,XII Constitutional Government of Portugal
-,Q3570375,XII Constitutional Government of Portugal,1991-10-31,11,,,1995-10-28,11,,,Q16850120,Council of Ministers,,,,,,,Q3570393,XI Constitutional Government of Portugal,Q1719936,XIII Constitutional Government of Portugal
-,Q1719936,XIII Constitutional Government of Portugal,1995-10-28,11,,,1999-10-25,11,,,Q16850120,Council of Ministers,,,,,,,Q3570375,XII Constitutional Government of Portugal,Q684129,XIV Constitutional Government of Portugal
-,Q684129,XIV Constitutional Government of Portugal,1999-10-25,11,,,2002-04-06,11,,,Q16850120,Council of Ministers,,,,,,,Q1719936,XIII Constitutional Government of Portugal,Q1719859,XV Constitutional Government of Portugal
-,Q1719859,XV Constitutional Government of Portugal,2002-04-06,11,,,2004-07-17,11,,,Q16850120,Council of Ministers,,,,,,,Q684129,XIV Constitutional Government of Portugal,Q1146060,XVI Constitutional Government of Portugal
-,Q1146060,XVI Constitutional Government of Portugal,2004-07-17,11,,,2005-03-12,11,,,Q16850120,Council of Ministers,,,,,,,Q1719859,XV Constitutional Government of Portugal,Q239352,XVII Constitutional Government of Portugal
-,Q239352,XVII Constitutional Government of Portugal,2005-03-12,11,,,2009-10-26,11,,,Q16850120,Council of Ministers,,,,,,,Q1146060,XVI Constitutional Government of Portugal,Q1568610,XVIII Constitutional Government of Portugal
-,Q1568610,XVIII Constitutional Government of Portugal,2009-10-26,11,,,2011-06-21,11,,,Q16850120,Council of Ministers,,,,,,,Q239352,XVII Constitutional Government of Portugal,Q1626916,XIX Constitutional Government of Portugal
-,Q1626916,XIX Constitutional Government of Portugal,2011-06-21,11,,,2015-10-30,11,,,Q16850120,Council of Ministers,,,,,Q21554845,XX Constitutional Government of Portugal,Q1568610,XVIII Constitutional Government of Portugal,Q21554845,XX Constitutional Government of Portugal
-,Q21554845,XX Constitutional Government of Portugal,2015-10-30,11,,,2015-11-26,11,,,Q16850120,Council of Ministers,,,Q1626916,XIX Constitutional Government of Portugal,Q21224349,XXI Constitutional Government of Portugal,Q1626916,XIX Constitutional Government of Portugal,Q21224349,XXI Constitutional Government of Portugal
-,Q21224349,XXI Constitutional Government of Portugal,2015-11-26,11,,,2019-10-26,11,,,Q16850120,Council of Ministers,,,Q21554845,XX Constitutional Government of Portugal,Q71014092,XXII Constitutional Government of Portugal,Q21554845,XX Constitutional Government of Portugal,Q71014092,XXII Constitutional Government of Portugal
-,Q71014092,XXII Constitutional Government of Portugal,2019-10-26,11,,,,,,,Q16850120,Council of Ministers,,,Q21224349,XXI Constitutional Government of Portugal,,,Q21224349,XXI Constitutional Government of Portugal,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q16142109,Q16142109,,,,,,,,,,,,,,,,
+,Q16142352,Q16142352,,,,,,,,,,,,,,,,
+,Q16142461,Q16142461,,,,,,,,,,,,,,,,
+,Q16142466,Q16142466,,,,,,,,,,,,,,,,
+,Q16142802,Q16142802,,,,,,,,,,,,,,,,
+,Q16142878,Q16142878,,,,,,,,,,,,,,,,
+,Q16142910,Q16142910,,,,,,,,,,,,,,,,
+,Q16142921,Q16142921,,,,,,,,,,,,,,,,
+,Q16142985,Q16142985,,,,,,,,,,,,,,,,
+,Q16143028,Q16143028,,,,,,,,,,,,,,,,
+,Q16143246,Q16143246,,,,,,,,,,,,,,,,
+,Q16143271,Q16143271,,,,,,,,,,,,,,,,
+,Q16143387,Q16143387,,,,,,,,,,,,,,,,
+,Q16143763,Q16143763,,,,,,,,,,,,,,,,
+,Q16484161,Q16484161,,,,,,,,,,,,,,,,
+,Q16484249,Q16484249,,,,,,,,,,,,,,,,
+,Q16484295,Q16484295,,,,,,,,,,,,,,,,
+,Q2233137,Q2233137,,,,,,,,,,,,,,,,
+,Q9546488,Q9546488,,,,,,,,,,,,,,,,
+,Q9546914,Q9546914,,,,,,,,,,,,,,,,
+,Q9550205,Q9550205,,,,,,,,,,,,,,,,
+,Q9550270,Q9550270,,,,,,,,,,,,,,,,
+,Q9550363,Q9550363,,,,,,,,,,,,,,,,
+,Q9550835,Q9550835,,,,,,,,,,,,,,,,
+,Q9551493,Q9551493,,,,,,,,,,,,,,,,
+,Q9551502,Q9551502,,,,,,,,,,,,,,,,
+,Q9551566,Q9551566,,,,,,,,,,,,,,,,
+,Q9551758,Q9551758,,,,,,,,,,,,,,,,
+,Q9551950,Q9551950,,,,,,,,,,,,,,,,
+,Q9552087,Q9552087,,,,,,,,,,,,,,,,
+,Q9552243,Q9552243,,,,,,,,,,,,,,,,
+,Q9552577,Q9552577,,,,,,,,,,,,,,,,
+,Q9552981,Q9552981,,,,,,,,,,,,,,,,
+,Q9553013,Q9553013,,,,,,,,,,,,,,,,
+,Q9553037,Q9553037,,,,,,,,,,,,,,,,
+,Q9553068,Q9553068,,,,,,,,,,,,,,,,
+,Q9554237,Q9554237,,,,,,,,,,,,,,,,
+,Q9554795,Q9554795,,,,,,,,,,,,,,,,
+,Q10290771,Q10290771,1910-10-05,11,,,1911-09-04,11,,,,,,,,,,
+,Q9549746,Q9549746,1911-09-03,11,,,1911-11-12,11,,,,,,,,,,
+,Q9552938,Q9552938,1912-06-16,11,,,1913-01-09,11,,,,,,,,,,
+,Q9545740,Q9545740,1915-05-15,11,,,1915-05-29,11,,,,,,,,,,
+,Q9550099,Q9550099,1920-01-15,11,,,1920-01-15,11,,,,,,,,,,
+,Q9550493,Q9550493,1920-07-19,11,,,1920-11-20,11,,,,,,,,,,
+,Q16484124,Q16484124,1921-03-02,11,,,1921-05-23,11,,,,,,,,,,
+,Q16141971,Q16141971,1926-05-30,11,,,1926-06-17,11,,,,,,,,,Q16142871,Q16142871
+,Q16142871,Q16142871,1926-06-17,11,,,1926-07-09,11,,,,,,,Q16141971,Q16141971,Q16484140,Q16484140
+,Q16484140,Q16484140,1926-07-09,11,,,1928-04-18,11,,,,,,,Q16142871,Q16142871,Q9552934,Q9552934
+,Q9552934,Q9552934,1928-04-18,11,,,1928-11-10,11,,,,,,,Q16484140,Q16484140,Q9553419,Q9553419
+,Q9553419,Q9553419,1928-11-10,11,,,1929-07-08,11,,,,,,,Q9552934,Q9552934,Q4375952,Q4375952
+,Q4375952,Q4375952,1929-07-08,11,,,1930-01-21,11,,,,,,,Q9553419,Q9553419,Q9554230,Q9554230
+,Q9554230,Q9554230,1930-01-21,11,,,1932-07-05,11,,,,,,,Q4375952,Q4375952,Q9554609,Q9554609
+,Q9554609,Q9554609,1932-07-05,11,,,1933-04-11,11,,,,,,,Q9554230,Q9554230,Q16144675,Q16144675
+,Q16144675,Q16144675,1933-04-11,11,,,1936-01-18,11,,,,,,,Q9554609,Q9554609,Q16482723,Q16482723
+,Q16482723,Q16482723,1936-01-18,11,,,1968-09-27,11,,,,,,,Q16144675,Q16144675,Q16142337,Q16142337
+,Q16142337,Q16142337,1968-09-27,11,,,1974-04-25,11,,,,,Q1701778,National Salvation Junta,Q16482723,Q16482723,,
+,Q3148022,I Provisional Government of Portugal,1974-05-16,11,,,1974-07-17,11,,,Q1701778,National Salvation Junta,,,,,Q3146704,II Provisional Government of Portugal
+,Q3146704,II Provisional Government of Portugal,1974-07-17,11,,,1974-09-30,11,,,,,,,Q3148022,I Provisional Government of Portugal,Q3146693,III Provisional Government of Portugal
+,Q3146693,III Provisional Government of Portugal,1974-09-30,11,,,1975-03-26,11,,,,,,,Q3146704,II Provisional Government of Portugal,Q3147006,IV Provisional Government of Portugal
+,Q3147006,IV Provisional Government of Portugal,1975-03-26,11,,,1975-08-08,11,,,,,,,Q3146693,III Provisional Government of Portugal,Q10388602,V Provisional Government of Portugal
+,Q10388602,V Provisional Government of Portugal,1975-08-08,11,,,1975-09-19,11,,,,,,,Q3147006,IV Provisional Government of Portugal,Q10388573,VI Provisional Government of Portugal
+,Q10388573,VI Provisional Government of Portugal,1975-09-19,11,,,1976-07-23,11,,,,,Q678051,I Constitutional Government of Portugal,Q10388602,V Provisional Government of Portugal,,
+,Q678051,I Constitutional Government of Portugal,1976-07-23,11,,,1978-01-23,11,,,Q10388573,VI Provisional Government of Portugal,,,,,Q683287,II Constitutional Government of Portugal
+,Q683287,II Constitutional Government of Portugal,1978-01-23,11,,,1978-08-29,11,,,,,,,Q678051,I Constitutional Government of Portugal,Q1720177,III Constitutional Government of Portugal
+,Q1720177,III Constitutional Government of Portugal,1978-08-29,11,,,1978-11-22,11,,,,,,,Q683287,II Constitutional Government of Portugal,Q1281360,IV Constitutional Government of Portugal
+,Q1281360,IV Constitutional Government of Portugal,1978-11-22,11,,,1979-07-07,11,,,,,,,Q1720177,III Constitutional Government of Portugal,Q10388603,V Constitutional Government of Portugal
+,Q10388603,V Constitutional Government of Portugal,1979-07-07,11,,,1980-01-03,11,,,,,,,Q1281360,IV Constitutional Government of Portugal,Q10388572,VI Constitutional Government of Portugal
+,Q10388572,VI Constitutional Government of Portugal,1980-01-03,11,,,1981-01-09,11,,,,,,,Q10388603,V Constitutional Government of Portugal,Q3552948,VII Constitutional Government of Portugal
+,Q3552948,VII Constitutional Government of Portugal,1981-01-09,11,,,1981-09-04,11,,,,,,,Q10388572,VI Constitutional Government of Portugal,Q3552943,VIII Constitutional Government of Portugal
+,Q3552943,VIII Constitutional Government of Portugal,1981-09-04,11,,,1983-06-09,11,,,,,,,Q3552948,VII Constitutional Government of Portugal,Q9006487,IX Constitutional Government of Portugal
+,Q9006487,IX Constitutional Government of Portugal,1983-06-09,11,,,1985-11-06,11,,,,,,,Q3552943,VIII Constitutional Government of Portugal,Q3570848,X Constitutional Government of Portugal
+,Q3570848,X Constitutional Government of Portugal,1985-11-06,11,,,1987-08-17,11,,,,,,,Q9006487,IX Constitutional Government of Portugal,Q3570393,XI Constitutional Government of Portugal
+,Q3570393,XI Constitutional Government of Portugal,1987-08-17,11,,,1991-10-31,11,,,,,,,Q3570848,X Constitutional Government of Portugal,Q3570375,XII Constitutional Government of Portugal
+,Q3570375,XII Constitutional Government of Portugal,1991-10-31,11,,,1995-10-28,11,,,,,,,Q3570393,XI Constitutional Government of Portugal,Q1719936,XIII Constitutional Government of Portugal
+,Q1719936,XIII Constitutional Government of Portugal,1995-10-28,11,,,1999-10-25,11,,,,,,,Q3570375,XII Constitutional Government of Portugal,Q684129,XIV Constitutional Government of Portugal
+,Q684129,XIV Constitutional Government of Portugal,1999-10-25,11,,,2002-04-06,11,,,,,,,Q1719936,XIII Constitutional Government of Portugal,Q1719859,XV Constitutional Government of Portugal
+,Q1719859,XV Constitutional Government of Portugal,2002-04-06,11,,,2004-07-17,11,,,,,,,Q684129,XIV Constitutional Government of Portugal,Q1146060,XVI Constitutional Government of Portugal
+,Q1146060,XVI Constitutional Government of Portugal,2004-07-17,11,,,2005-03-12,11,,,,,,,Q1719859,XV Constitutional Government of Portugal,Q239352,XVII Constitutional Government of Portugal
+,Q239352,XVII Constitutional Government of Portugal,2005-03-12,11,,,2009-10-26,11,,,,,,,Q1146060,XVI Constitutional Government of Portugal,Q1568610,XVIII Constitutional Government of Portugal
+,Q1568610,XVIII Constitutional Government of Portugal,2009-10-26,11,,,2011-06-21,11,,,,,,,Q239352,XVII Constitutional Government of Portugal,Q1626916,XIX Constitutional Government of Portugal
+,Q1626916,XIX Constitutional Government of Portugal,2011-06-21,11,,,2015-10-30,11,,,,,Q21554845,XX Constitutional Government of Portugal,Q1568610,XVIII Constitutional Government of Portugal,Q21554845,XX Constitutional Government of Portugal
+,Q21554845,XX Constitutional Government of Portugal,2015-10-30,11,,,2015-11-26,11,,,Q1626916,XIX Constitutional Government of Portugal,Q21224349,XXI Constitutional Government of Portugal,Q1626916,XIX Constitutional Government of Portugal,Q21224349,XXI Constitutional Government of Portugal
+,Q21224349,XXI Constitutional Government of Portugal,2015-11-26,11,,,2019-10-26,11,,,Q21554845,XX Constitutional Government of Portugal,Q71014092,XXII Constitutional Government of Portugal,Q21554845,XX Constitutional Government of Portugal,Q71014092,XXII Constitutional Government of Portugal
+,Q71014092,XXII Constitutional Government of Portugal,2019-10-26,11,,,,,,,Q21224349,XXI Constitutional Government of Portugal,,,Q21224349,XXI Constitutional Government of Portugal,,
