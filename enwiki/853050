@@ -99,7 +99,7 @@
       ],
       "templates": [
         {
-          "date": "July 2020",
+          "date": "February 2022",
           "template": "use dmy dates"
         },
         {
@@ -141,7 +141,7 @@
           "template": "ubl"
         },
         {
-          "transcription": "ˈɐ̃ˈtɔnju ˈkɔʃ.tɐ",
+          "transcription": "ɐ̃ˈtɔnju ˈkɔʃtɐ",
           "template": "ipa"
         }
       ],
@@ -550,16 +550,6 @@
           },
           "parents": {
             "text": "Orlando da Costa\n\nMaria Antónia Palla"
-          },
-          "relations": {
-            "text": "Ricardo Costa (brother)",
-            "links": [
-              {
-                "text": "Ricardo Costa",
-                "type": "internal",
-                "page": "Ricardo Costa (journalist)"
-              }
-            ]
           },
           "alma_mater": {
             "text": "University of Lisbon",
