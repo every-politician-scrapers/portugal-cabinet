@@ -33,12 +33,31 @@
               }
             },
             {
-              "text": "She is responsible for the Ministry of Agriculture in XXII Constitutional Government since October 26, 2019.",
+              "text": "She was responsible for the Ministry of Agriculture in XXII Constitutional Government from October 26, 2019.",
               "links": [
                 {
                   "text": "XXII Constitutional Government",
                   "type": "internal",
                   "page": "XXII Constitutional Government of Portugal"
+                }
+              ]
+            },
+            {
+              "text": "In January 2022, she was elected to the Assembly of the Republic on the list of the victorious Socialist Party (PS), as a representative of Santarém District.",
+              "links": [
+                {
+                  "text": "Assembly of the Republic",
+                  "type": "internal",
+                  "page": "Assembly of the Republic (Portugal)"
+                },
+                {
+                  "text": "Socialist Party",
+                  "type": "internal",
+                  "page": "Socialist Party (Portugal)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Santarém District"
                 }
               ]
             }
@@ -47,7 +66,7 @@
         {
           "sentences": [
             {
-              "text": "Before that, she was Secretary of State for Regional Development in the XXI Constitutional Government of February 18 to October 26, 2019, and President of the Municipality of Abrantes for 9 years.",
+              "text": "Before that, she had been Secretary of State for Regional Development in the XXI Constitutional Government of February 18 to October 26, 2019, and President of the Municipality of Abrantes for 9 years.",
               "links": [
                 {
                   "text": "XXI Constitutional Government",
