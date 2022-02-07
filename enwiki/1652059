@@ -119,7 +119,7 @@
           "template": "birth date and age"
         },
         {
-          "spouse": "Ana Cristina Motta Veiga",
+          "spouse": "Ana Cristina Mota Veiga",
           "from": "1972",
           "to": "1980",
           "reason": "sep.",
@@ -411,7 +411,7 @@
             ]
           },
           "spouse": {
-            "text": "Ana Cristina Motta Veiga (m. 1972-1980)"
+            "text": "Ana Cristina Mota Veiga (m. 1972-1980)"
           },
           "children": {
             "text": "2",

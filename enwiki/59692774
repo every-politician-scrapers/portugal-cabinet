@@ -16,8 +16,13 @@
         {
           "sentences": [
             {
-              "text": "Pedro Siza Vieira (born 14 July 1964) is a Portuguese lawyer and politician who has served as Deputy Minister and Minister of Economy  in the government of Prime Minister António Costa.",
+              "text": "Pedro Siza Vieira (born 14 July 1964) is a Portuguese lawyer and politician who has served as Deputy Prime Minister and Minister of Economy  in the government of Prime Minister António Costa.",
               "links": [
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy prime minister"
+                },
                 {
                   "text": "Minister of Economy",
                   "type": "internal",
@@ -122,7 +127,13 @@
             ]
           },
           "office2": {
-            "text": "Deputy Minister"
+            "text": "Deputy Prime Minister",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister"
+              }
+            ]
           },
           "primeminister2": {
             "text": "António Costa"
