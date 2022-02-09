@@ -28,39 +28,6 @@
                   "João Pedro Matos Fernandes"
                 ]
               }
-            },
-            {
-              "text": "He has a bachelor's degree in civil engineering from the University of Porto and a master's degree in transport from Instituto Superior Técnico.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "University of Porto"
-                },
-                {
-                  "type": "internal",
-                  "page": "Instituto Superior Técnico"
-                }
-              ]
-            },
-            {
-              "text": "Fernandes served as president of the Portuguese Port Authorities' Association from 2008 to 2010, and as chairman of the Viana do Castelo Port Authority from 2009 to 2012.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Portuguese Port Authorities' Association"
-                },
-                {
-                  "type": "internal",
-                  "page": "Viana do Castelo Port Authority"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He is a cousin of actor Pepe Rapajote"
             }
           ]
         }
