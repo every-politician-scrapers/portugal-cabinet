@@ -70,8 +70,18 @@
       ],
       "infoboxes": [
         {
+          "image": {
+            "text": "Ricardo Serrão Santos (What is Deep Sea Mining, Ep 3), cropped.png"
+          },
           "office3": {
-            "text": "Minister of the Sea"
+            "text": "Minister of the Sea",
+            "links": [
+              {
+                "text": "Minister of the Sea",
+                "type": "internal",
+                "page": "Ministry of the Sea (Portugal)"
+              }
+            ]
           },
           "term_start3": {
             "text": "October 26, 2019"
