@@ -1,12 +1,12 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q16142109,Q16142109,,,,,,,,,,,,,,,,
-,Q16142352,Q16142352,,,,,,,,,,,,,,,,
-,Q16142461,Q16142461,,,,,,,,,,,,,,,,
-,Q16142466,Q16142466,,,,,,,,,,,,,,,,
-,Q16142802,Q16142802,,,,,,,,,,,,,,,,
-,Q16142878,Q16142878,,,,,,,,,,,,,,,,
-,Q16142910,Q16142910,,,,,,,,,,,,,,,,
-,Q16142921,Q16142921,,,,,,,,,,,,,,,,
+,Q16142109,21st Portuguese Government,,,,,,,,,,,,,,,,
+,Q16142352,11th Portuguese Government,,,,,,,,,,,,,,,,
+,Q16142461,12th Portuguese Government,,,,,,,,,,,,,,,,
+,Q16142466,27th Portuguese Government,,,,,,,,,,,,,,,,
+,Q16142802,15th Portuguese Government,,,,,,,,,,,,,,,,
+,Q16142878,32nd Portuguese Government,,,,,,,,,,,,,,,,
+,Q16142910,34th Portuguese Government,,,,,,,,,,,,,,,,
+,Q16142921,16th Portuguese Government,,,,,,,,,,,,,,,,
 ,Q16142985,20th Portuguese Government,,,,,,,,,,,,,,,,
 ,Q16143028,17th Portuguese Government,,,,,,,,,,,,,,,,
 ,Q16143246,40th Portuguese Government,,,,,,,,,,,,,,,,
@@ -14,47 +14,47 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q16143763,5th Portuguese Government,,,,,,,,,,,,,,,,
 ,Q16484161,38th Portuguese Government,,,,,,,,,,,,,,,,
 ,Q9546914,18th Portuguese government,,,,,,,,,,,,,,,,
-,Q9550270,Q9550270,,,,,,,,,,,,,,,,
-,Q9550363,Q9550363,,,,,,,,,,,,,,,,
-,Q9550835,Q9550835,,,,,,,,,,,,,,,,
-,Q9551493,Q9551493,,,,,,,,,,,,,,,,
-,Q9551502,Q9551502,,,,,,,,,,,,,,,,
-,Q9551566,Q9551566,,,,,,,,,,,,,,,,
-,Q9551758,Q9551758,,,,,,,,,,,,,,,,
-,Q9551950,Q9551950,,,,,,,,,,,,,,,,
-,Q9552087,Q9552087,,,,,,,,,,,,,,,,
-,Q9552243,Q9552243,,,,,,,,,,,,,,,,
-,Q9552577,Q9552577,,,,,,,,,,,,,,,,
-,Q9552981,Q9552981,,,,,,,,,,,,,,,,
-,Q9553013,Q9553013,,,,,,,,,,,,,,,,
-,Q9553037,Q9553037,,,,,,,,,,,,,,,,
-,Q9553068,Q9553068,,,,,,,,,,,,,,,,
-,Q9554237,Q9554237,,,,,,,,,,,,,,,,
-,Q9554795,Q9554795,,,,,,,,,,,,,,,,
-,Q10290771,Q10290771,1910-10-05,11,,,1911-09-04,11,,,,,,,,,,
-,Q9549746,Q9549746,1911-09-03,11,,,1911-11-12,11,,,,,,,,,,
-,Q9552938,Q9552938,1912-06-16,11,,,1913-01-09,11,,,,,,,,,,
+,Q9550270,24th Portuguese Government,,,,,,,,,,,,,,,,
+,Q9550363,25th Portuguese Government,,,,,,,,,,,,,,,,
+,Q9550835,28th Portuguese Government,,,,,,,,,,,,,,,,
+,Q9551493,3rd Portuguese Government,,,,,,,,,,,,,,,,
+,Q9551502,30th Portuguese Government,,,,,,,,,,,,,,,,
+,Q9551566,31st Portuguese Government,,,,,,,,,,,,,,,,
+,Q9551758,33rd Portuguese Government,,,,,,,,,,,,,,,,
+,Q9551950,35th Portuguese Government,,,,,,,,,,,,,,,,
+,Q9552087,36th Portuguese Government,,,,,,,,,,,,,,,,
+,Q9552243,37th Portuguese Government,,,,,,,,,,,,,,,,
+,Q9552577,39th Portuguese Government,,,,,,,,,,,,,,,,
+,Q9552981,41st Portuguese Government,,,,,,,,,,,,,,,,
+,Q9553013,42nd Portuguese Government,,,,,,,,,,,,,,,,
+,Q9553037,43rd Portuguese Government,,,,,,,,,,,,,,,,
+,Q9553068,45th Portuguese Government,,,,,,,,,,,,,,,,
+,Q9554237,7th Portuguese Government,,,,,,,,,,,,,,,,
+,Q9554795,9th Portuguese Government,,,,,,,,,,,,,,,,
+,Q10290771,1st Portuguese Government,1910-10-05,11,,,1911-09-04,11,,,,,,,,,,
+,Q9549746,2nd Portuguese Government,1911-09-03,11,,,1911-11-12,11,,,,,,,,,,
+,Q9552938,4th Portuguese Government,1912-06-16,11,,,1913-01-09,11,,,,,,,,,,
 ,Q16484249,6th Portuguese Government,1914-02-09,11,,,1914-06-23,11,,,,,,,,,,
-,Q16484295,Q16484295,1914-12-12,11,,,1915-01-25,11,,,,,,,,,,
-,Q9545740,Q9545740,1915-05-15,11,,,1915-05-29,11,,,,,,,,,,
+,Q16484295,8th Portuguese Government,1914-12-12,11,,,1915-01-25,11,,,,,,,,,,
+,Q9545740,10th Portuguese Government,1915-05-15,11,,,1915-05-29,11,,,,,,,,,,
 ,Q2233137,13th Portuguese Government,1916-03-15,11,,,1917-04-25,11,,,,,,,,,,
 ,Q9546488,14th Portugese Government,1917-04-25,11,,,1917-12-10,11,,,,,,,,,,
 ,Q16143271,19th Portuguese Government,1919-01-27,11,,,1919-03-30,11,,,,,,,,,,
-,Q9550099,Q9550099,1920-01-15,11,,,1920-01-15,11,,,,,,,,,,
+,Q9550099,22nd Portuguese Government,1920-01-15,11,,,1920-01-15,11,,,,,,,,,,
 ,Q9550205,23rd Government of Portugal,1920-01-21,11,,,1920-03-08,11,,,,,,,,,,
 ,Q9550493,Granjo Cabinet,1920-07-19,11,,,1920-11-20,11,,,,,,,,,,
-,Q16484124,Q16484124,1921-03-02,11,,,1921-05-23,11,,,,,,,,,,
+,Q16484124,29th Portuguese Government,1921-03-02,11,,,1921-05-23,11,,,,,,,,,,
 ,Q16141971,Cabeçadas Cabinet,1926-05-30,11,,,1926-06-17,11,,,,,,,,,Q16142871,Gomes da Costa Cabinet
 ,Q16142871,Gomes da Costa Cabinet,1926-06-17,11,,,1926-07-09,11,,,,,,,Q16141971,Cabeçadas Cabinet,Q16484140,Carmona Cabinet
 ,Q16484140,Carmona Cabinet,1926-07-09,11,,,1928-04-18,11,,,,,,,Q16142871,Gomes da Costa Cabinet,Q9552934,1st Freitas Cabinet
 ,Q9552934,1st Freitas Cabinet,1928-04-18,11,,,1928-11-10,11,,,,,,,Q16484140,Carmona Cabinet,Q9553419,2nd Freitas Cabinet
-,Q9553419,2nd Freitas Cabinet,1928-11-10,11,,,1929-07-08,11,,,,,,,Q9552934,1st Freitas Cabinet,Q4375952,Q4375952
-,Q4375952,Q4375952,1929-07-08,11,,,1930-01-21,11,,,,,,,Q9553419,2nd Freitas Cabinet,Q9554230,Q9554230
-,Q9554230,Q9554230,1930-01-21,11,,,1932-07-05,11,,,,,,,Q4375952,Q4375952,Q9554609,1st Salazar Cabinet
-,Q9554609,1st Salazar Cabinet,1932-07-05,11,,,1933-04-11,11,,,,,,,Q9554230,Q9554230,Q16144675,2nd Salazar Cabinet
+,Q9553419,2nd Freitas Cabinet,1928-11-10,11,,,1929-07-08,11,,,,,,,Q9552934,1st Freitas Cabinet,Q4375952,Ferraz Cabinet
+,Q4375952,Ferraz Cabinet,1929-07-08,11,,,1930-01-21,11,,,,,,,Q9553419,2nd Freitas Cabinet,Q9554230,Domingos Oliveira Cabinet
+,Q9554230,Domingos Oliveira Cabinet,1930-01-21,11,,,1932-07-05,11,,,,,,,Q4375952,Ferraz Cabinet,Q9554609,1st Salazar Cabinet
+,Q9554609,1st Salazar Cabinet,1932-07-05,11,,,1933-04-11,11,,,,,,,Q9554230,Domingos Oliveira Cabinet,Q16144675,2nd Salazar Cabinet
 ,Q16144675,2nd Salazar Cabinet,1933-04-11,11,,,1936-01-18,11,,,,,,,Q9554609,1st Salazar Cabinet,Q16482723,3rd Oliveira de Salazar Cabinet
-,Q16482723,3rd Oliveira de Salazar Cabinet,1936-01-18,11,,,1968-09-27,11,,,,,,,Q16144675,2nd Salazar Cabinet,Q16142337,Q16142337
-,Q16142337,Q16142337,1968-09-27,11,,,1974-04-25,11,,,,,Q1701778,National Salvation Junta,Q16482723,3rd Oliveira de Salazar Cabinet,,
+,Q16482723,3rd Oliveira de Salazar Cabinet,1936-01-18,11,,,1968-09-27,11,,,,,,,Q16144675,2nd Salazar Cabinet,Q16142337,Caetano Cabinet
+,Q16142337,Caetano Cabinet,1968-09-27,11,,,1974-04-25,11,,,,,Q1701778,National Salvation Junta,Q16482723,3rd Oliveira de Salazar Cabinet,,
 ,Q3148022,I Provisional Government of Portugal,1974-05-16,11,,,1974-07-17,11,,,Q1701778,National Salvation Junta,,,,,Q3146704,II Provisional Government of Portugal
 ,Q3146704,II Provisional Government of Portugal,1974-07-17,11,,,1974-09-30,11,,,,,,,Q3148022,I Provisional Government of Portugal,Q3146693,III Provisional Government of Portugal
 ,Q3146693,III Provisional Government of Portugal,1974-09-30,11,,,1975-03-26,11,,,,,,,Q3146704,II Provisional Government of Portugal,Q3147006,IV Provisional Government of Portugal
