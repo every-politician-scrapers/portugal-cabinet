@@ -28,7 +28,7 @@
         {
           "sentences": [
             {
-              "text": "António Luís Santos da Costa GCIH (born 17 July 1961) is a Portuguese lawyer and politician serving as the 119th and current Prime Minister of Portugal since 26 November 2015, presiding over the XXI (2015–2019) and XXII Constitutional Governments (2019–present).",
+              "text": "António Luís Santos da Costa GCIH (born 17 July 1961) is a Portuguese lawyer and politician serving as the 119th and current prime minister of Portugal since 26 November 2015, presiding over the XXI (2015–2019) and XXII Constitutional Governments (2019–present).",
               "links": [
                 {
                   "text": "GCIH",
@@ -41,8 +41,9 @@
                   "page": "List of Prime Ministers of Portugal"
                 },
                 {
+                  "text": "prime minister of Portugal",
                   "type": "internal",
-                  "page": "Prime Minister of Portugal"
+                  "page": "prime minister of Portugal"
                 },
                 {
                   "text": "XXI",
@@ -62,26 +63,27 @@
               }
             },
             {
-              "text": "Previously, he was Secretary of State for Parliamentary Affairs from 1995 to 1997, Minister of Parliamentary Affairs from 1997 to 1999, Minister of Justice from 1999 to 2002, Minister of Internal Administration from 2005 to 2007, and Mayor of Lisbon from 2007 to 2015.",
+              "text": "Previously, he was the secretary of state for parliamentary affairs from 1995 to 1997, minister of parliamentary affairs from 1997 to 1999, minister of justice from 1999 to 2002, minister of internal administration from 2005 to 2007, and mayor of Lisbon from 2007 to 2015.",
               "links": [
                 {
-                  "text": "Minister of Justice",
+                  "text": "minister of justice",
                   "type": "internal",
                   "page": "Ministry of Justice (Portugal)"
                 },
                 {
-                  "text": "Minister of Internal Administration",
+                  "text": "minister of internal administration",
                   "type": "internal",
                   "page": "Ministry of the Internal Administration (Portugal)"
                 },
                 {
+                  "text": "mayor of Lisbon",
                   "type": "internal",
-                  "page": "Mayor of Lisbon"
+                  "page": "mayor of Lisbon"
                 }
               ]
             },
             {
-              "text": "He was elected as Secretary General of the Socialist Party in September 2014.",
+              "text": "He was elected as secretary general of the Socialist Party in September 2014.",
               "links": [
                 {
                   "text": "elected",
@@ -89,7 +91,7 @@
                   "page": "Portuguese Socialist Party prime ministerial primary, 2014"
                 },
                 {
-                  "text": "Secretary General of the Socialist Party",
+                  "text": "secretary general of the Socialist Party",
                   "type": "internal",
                   "page": "Socialist Party (Portugal)"
                 }
