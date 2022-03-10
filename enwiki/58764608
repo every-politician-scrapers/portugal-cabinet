@@ -1,197 +1,22 @@
 {
-  "title": "João Gomes Cravinho",
-  "pageID": 58764608,
-  "categories": [
-    "1964 births",
-    "Living people",
-    "Ministers of National Defence of Portugal",
-    "People from Coimbra",
-    "Portuguese diplomats",
-    "Ambassadors of the European Union to India",
-    "Independent politicians in Portugal"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "João Titterington Gomes Cravinho (born 16 June 1964) is a Portuguese diplomat and politician who has been serving as Minister of National Defence in the government of Prime Minister António Costa since 2018.",
-              "links": [
-                {
-                  "text": "Minister of National Defence",
-                  "type": "internal",
-                  "page": "Ministry of National Defence (Portugal)"
-                },
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Portugal"
-                },
-                {
-                  "type": "internal",
-                  "page": "António Costa"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "João Titterington Gomes Cravinho"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Portuguese politician and diplomat",
-          "template": "short description"
-        },
-        {
-          "date": "October 2018",
-          "template": "blp sources"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "João Gomes Cravinho"
-          },
-          "image": {
-            "text": "05 04 2018 - João Gomes Cravinho.jpg"
-          },
-          "office": {
-            "text": "Minister of National Defence",
-            "links": [
-              {
-                "text": "Minister of National Defence",
-                "type": "internal",
-                "page": "Ministry of National Defence (Portugal)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "António Costa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "António Costa"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "15 October 2018"
-          },
-          "predecessor": {
-            "text": "José Alberto Azeredo Lopes",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Alberto Azeredo Lopes"
-              }
-            ]
-          },
-          "office2": {
-            "text": "European Union Ambassador to Brazil",
-            "links": [
-              {
-                "text": "European Union Ambassador to Brazil",
-                "type": "internal",
-                "page": "List of ambassadors of the European Union"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 August 2015"
-          },
-          "term_end2": {
-            "text": "2018",
-            "number": 2018
-          },
-          "predecessor2": {
-            "text": "Ana Paula Zacarias",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ana Paula Zacarias"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Ignacio Ybáñez"
-          },
-          "office3": {
-            "text": "Secretary of State for Foreign Affairs and Cooperation",
-            "links": [
-              {
-                "text": "Secretary of State for Foreign Affairs and Cooperation",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Portugal)"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "José Sócrates",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Sócrates"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "20 March 2005"
-          },
-          "term_end3": {
-            "text": "20 June 2011"
-          },
-          "predecessor3": {
-            "text": "Henrique de Freitas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Henrique de Freitas"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Luís Brites Pereira",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luís Brites Pereira"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "16 June 1964"
-          },
-          "birth_place": {
-            "text": "Coimbra, Portugal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Coimbra"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "London School of Economics University of Oxford",
-            "links": [
-              {
-                "type": "internal",
-                "page": "London School of Economics"
-              },
-              {
-                "type": "internal",
-                "page": "University of Oxford"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "João Gomes Cravinho",
+  "image": "05 04 2018 - João Gomes Cravinho.jpg",
+  "office": "Minister of National Defence",
+  "primeminister": "António Costa",
+  "term_start": "15 October 2018",
+  "predecessor": "José Alberto Azeredo Lopes",
+  "office2": "European Union Ambassador to Brazil",
+  "term_start2": "1 August 2015",
+  "term_end2": "2018",
+  "predecessor2": "Ana Paula Zacarias",
+  "successor2": "Ignacio Ybáñez",
+  "office3": "Secretary of State for Foreign Affairs and Cooperation",
+  "primeminister3": "José Sócrates",
+  "term_start3": "20 March 2005",
+  "term_end3": "20 June 2011",
+  "predecessor3": "Henrique de Freitas",
+  "successor3": "Luís Brites Pereira",
+  "birth_date": "16 June 1964",
+  "birth_place": "Coimbra, Portugal",
+  "alma_mater": "London School of Economics University of Oxford"
 }
