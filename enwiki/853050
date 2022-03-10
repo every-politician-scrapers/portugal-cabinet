@@ -1,585 +1,69 @@
 {
-  "title": "António Costa",
-  "pageID": 853050,
-  "categories": [
-    "1961 births",
-    "Government ministers of Portugal",
-    "Portuguese people of French descent",
-    "Living people",
-    "Mayors of Lisbon",
-    "MEPs for Portugal 2004–2009",
-    "Portuguese people of Goan descent",
-    "Portuguese politicians of Indian descent",
-    "Portuguese people of Mozambican descent",
-    "Portuguese agnostics",
-    "Portuguese socialists",
-    "Prime Ministers of Portugal",
-    "Socialist Party (Portugal) MEPs",
-    "Socialist Party (Portugal) politicians",
-    "Recipients of the Order of the Cross of Terra Mariana, 3rd Class",
-    "Recipients of Pravasi Bharatiya Samman",
-    "António Costa"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "António Luís Santos da Costa GCIH (born 17 July 1961) is a Portuguese lawyer and politician serving as the 119th and current prime minister of Portugal since 26 November 2015, presiding over the XXI (2015–2019) and XXII Constitutional Governments (2019–present).",
-              "links": [
-                {
-                  "text": "GCIH",
-                  "type": "internal",
-                  "page": "Order of Infante D. Henrique"
-                },
-                {
-                  "text": "119th",
-                  "type": "internal",
-                  "page": "List of Prime Ministers of Portugal"
-                },
-                {
-                  "text": "prime minister of Portugal",
-                  "type": "internal",
-                  "page": "prime minister of Portugal"
-                },
-                {
-                  "text": "XXI",
-                  "type": "internal",
-                  "page": "XXI Constitutional Government of Portugal"
-                },
-                {
-                  "text": "XXII Constitutional Governments",
-                  "type": "internal",
-                  "page": "XXII Constitutional Government of Portugal"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "António Luís Santos da Costa"
-                ]
-              }
-            },
-            {
-              "text": "Previously, he was the secretary of state for parliamentary affairs from 1995 to 1997, minister of parliamentary affairs from 1997 to 1999, minister of justice from 1999 to 2002, minister of internal administration from 2005 to 2007, and mayor of Lisbon from 2007 to 2015.",
-              "links": [
-                {
-                  "text": "minister of justice",
-                  "type": "internal",
-                  "page": "Ministry of Justice (Portugal)"
-                },
-                {
-                  "text": "minister of internal administration",
-                  "type": "internal",
-                  "page": "Ministry of the Internal Administration (Portugal)"
-                },
-                {
-                  "text": "mayor of Lisbon",
-                  "type": "internal",
-                  "page": "mayor of Lisbon"
-                }
-              ]
-            },
-            {
-              "text": "He was elected as secretary general of the Socialist Party in September 2014.",
-              "links": [
-                {
-                  "text": "elected",
-                  "type": "internal",
-                  "page": "Portuguese Socialist Party prime ministerial primary, 2014"
-                },
-                {
-                  "text": "secretary general of the Socialist Party",
-                  "type": "internal",
-                  "page": "Socialist Party (Portugal)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "February 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "template": "other people"
-        },
-        {
-          "description": "119th and current Prime Minister of Portugal",
-          "template": "short description"
-        },
-        {
-          "first": "Santos",
-          "second": "Costa",
-          "template": "portuguese name"
-        },
-        {
-          "list": [
-            "Member of the European Parliament",
-            "for Portugal"
-          ],
-          "template": "ubl"
-        },
-        {
-          "year": "1961",
-          "month": "7",
-          "day": "17",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Fernanda Tadeu",
-          "from": "31 July 1987",
-          "template": "marriage"
-        },
-        {
-          "list": [
-            "Orlando da Costa",
-            "Maria Antónia Palla"
-          ],
-          "template": "ubl"
-        },
-        {
-          "transcription": "ɐ̃ˈtɔnju ˈkɔʃtɐ",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
-          "name": {
-            "text": "António Costa"
-          },
-          "honorific-suffix": {
-            "text": "GCIH",
-            "links": [
-              {
-                "text": "GCIH",
-                "type": "internal",
-                "page": "Order of Prince Henry"
-              }
-            ]
-          },
-          "image": {
-            "text": "António Costa em 2017.jpg"
-          },
-          "caption": {
-            "text": "António Costa in 2017"
-          },
-          "office": {
-            "text": "Prime Minister of Portugal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Portugal"
-              }
-            ]
-          },
-          "president": {
-            "text": "Aníbal Cavaco Silva Marcelo Rebelo de Sousa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aníbal Cavaco Silva"
-              },
-              {
-                "type": "internal",
-                "page": "Marcelo Rebelo de Sousa"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "26 November 2015"
-          },
-          "deputy": {
-            "text": "Eduardo Cabrita\nPedro Siza Vieira",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eduardo Cabrita"
-              },
-              {
-                "type": "internal",
-                "page": "Pedro Siza Vieira"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Pedro Passos Coelho",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Passos Coelho"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Secretary-General of the Socialist Party",
-            "links": [
-              {
-                "text": "Secretary-General of the Socialist Party",
-                "type": "internal",
-                "page": "Secretary-General of the Socialist Party (Portugal)"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Carlos César",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carlos César"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "22 November 2014"
-          },
-          "predecessor1": {
-            "text": "António José Seguro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "António José Seguro"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Leader of the Opposition",
-            "links": [
-              {
-                "text": "Leader of the Opposition",
-                "type": "internal",
-                "page": "Leader of the Opposition (Portugal)"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Pedro Passos Coelho",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Passos Coelho"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "22 November 2014"
-          },
-          "term_end2": {
-            "text": "26 November 2015"
-          },
-          "predecessor2": {
-            "text": "António José Seguro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "António José Seguro"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Pedro Passos Coelho",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Passos Coelho"
-              }
-            ]
-          },
-          "office3": {
-            "text": "76th Mayor of Lisbon",
-            "links": [
-              {
-                "text": "Mayor of Lisbon",
-                "type": "internal",
-                "page": "List of mayors of Lisbon"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 August 2007"
-          },
-          "term_end3": {
-            "text": "6 April 2015"
-          },
-          "predecessor3": {
-            "text": "Carmona Rodrigues",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carmona Rodrigues"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Fernando Medina",
-            "links": [
-              {
-                "text": "Fernando Medina",
-                "type": "internal",
-                "page": "Fernando Medina (politician)"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of the Internal Administration",
-            "links": [
-              {
-                "text": "Minister of the Internal Administration",
-                "type": "internal",
-                "page": "Ministry of the Internal Administration (Portugal)"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "José Sócrates",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Sócrates"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "12 March 2005"
-          },
-          "term_end4": {
-            "text": "17 May 2007"
-          },
-          "predecessor4": {
-            "text": "Daniel Sanches"
-          },
-          "successor4": {
-            "text": "Rui Pereira",
-            "links": [
-              {
-                "text": "Rui Pereira",
-                "type": "internal",
-                "page": "Rui Pereira (politician)"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Ministry of Justice (Portugal)"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "António Guterres",
-            "links": [
-              {
-                "type": "internal",
-                "page": "António Guterres"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "25 October 1999"
-          },
-          "term_end5": {
-            "text": "6 April 2002"
-          },
-          "predecessor5": {
-            "text": "José Vera Jardim"
-          },
-          "successor5": {
-            "text": "Celeste Cardona"
-          },
-          "office6": {
-            "text": "Minister of Parliamentary Affairs",
-            "links": [
-              {
-                "text": "Minister of Parliamentary Affairs",
-                "type": "internal",
-                "page": "Ministry of Parliamentary Affairs (Portugal)"
-              }
-            ]
-          },
-          "primeminister6": {
-            "text": "António Guterres",
-            "links": [
-              {
-                "type": "internal",
-                "page": "António Guterres"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "25 November 1997"
-          },
-          "term_end6": {
-            "text": "25 October 1999"
-          },
-          "predecessor6": {
-            "text": "Luís Filipe Menezes",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luís Filipe Menezes"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Luís Marques Mendes",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luís Marques Mendes"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Member of the Assembly of the Republic",
-            "links": [
-              {
-                "text": "Member of the Assembly of the Republic",
-                "type": "internal",
-                "page": "Member of the Assembly of the Republic (Portugal)"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "23 October 2015"
-          },
-          "term_end7": {
-            "text": "26 November 2015"
-          },
-          "constituency7": {
-            "text": "Lisbon",
-            "links": [
-              {
-                "text": "Lisbon",
-                "type": "internal",
-                "page": "Lisbon District"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "6 April 2002"
-          },
-          "term_end8": {
-            "text": "13 June 2004"
-          },
-          "constituency8": {
-            "text": "Leiria",
-            "links": [
-              {
-                "text": "Leiria",
-                "type": "internal",
-                "page": "Leiria District"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "6 October 1991"
-          },
-          "term_end9": {
-            "text": "28 October 1995"
-          },
-          "constituency9": {
-            "text": "Lisbon",
-            "links": [
-              {
-                "text": "Lisbon",
-                "type": "internal",
-                "page": "Lisbon District"
-              }
-            ]
-          },
-          "office10": {
-            "text": "Member of the European Parliament\n\nfor Portugal"
-          },
-          "term_start10": {
-            "text": "20 July 2004"
-          },
-          "term_end10": {
-            "text": "11 March 2005"
-          },
-          "birth_name": {
-            "text": "António Luís Santos da Costa"
-          },
-          "birth_date": {
-            "text": "July 17, 1961"
-          },
-          "birth_place": {
-            "text": "Lisbon, Portugal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lisbon"
-              },
-              {
-                "text": "Portugal",
-                "type": "internal",
-                "page": "Estado Novo (Portugal)"
-              }
-            ]
-          },
-          "party": {
-            "text": "Socialist",
-            "links": [
-              {
-                "text": "Socialist",
-                "type": "internal",
-                "page": "Socialist Party (Portugal)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Fernanda Tadeu (m. 31 July 1987)"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "parents": {
-            "text": "Orlando da Costa\n\nMaria Antónia Palla"
-          },
-          "alma_mater": {
-            "text": "University of Lisbon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Lisbon"
-              }
-            ]
-          },
-          "residence": {
-            "text": "São Bento Mansion",
-            "links": [
-              {
-                "type": "internal",
-                "page": "São Bento Mansion"
-              }
-            ]
-          },
-          "signature": {
-            "text": "AssinaturaAntónioCosta.svg"
-          },
-          "website": {
-            "text": "Official website"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "His Excellency",
+  "name": "António Costa",
+  "honorific-suffix": "GCIH",
+  "image": "António Costa em 2017.jpg",
+  "caption": "António Costa in 2017",
+  "office": "Prime Minister of Portugal",
+  "president": "Aníbal Cavaco Silva Marcelo Rebelo de Sousa",
+  "term_start": "26 November 2015",
+  "deputy": "Eduardo Cabrita\nPedro Siza Vieira",
+  "predecessor": "Pedro Passos Coelho",
+  "office1": "Secretary-General of the Socialist Party",
+  "president1": "Carlos César",
+  "term_start1": "22 November 2014",
+  "predecessor1": "António José Seguro",
+  "office2": "Leader of the Opposition",
+  "primeminister2": "Pedro Passos Coelho",
+  "term_start2": "22 November 2014",
+  "term_end2": "26 November 2015",
+  "predecessor2": "António José Seguro",
+  "successor2": "Pedro Passos Coelho",
+  "office3": "76th Mayor of Lisbon",
+  "term_start3": "1 August 2007",
+  "term_end3": "6 April 2015",
+  "predecessor3": "Carmona Rodrigues",
+  "successor3": "Fernando Medina",
+  "office4": "Minister of the Internal Administration",
+  "primeminister4": "José Sócrates",
+  "term_start4": "12 March 2005",
+  "term_end4": "17 May 2007",
+  "predecessor4": "Daniel Sanches",
+  "successor4": "Rui Pereira",
+  "office5": "Minister of Justice",
+  "primeminister5": "António Guterres",
+  "term_start5": "25 October 1999",
+  "term_end5": "6 April 2002",
+  "predecessor5": "José Vera Jardim",
+  "successor5": "Celeste Cardona",
+  "office6": "Minister of Parliamentary Affairs",
+  "primeminister6": "António Guterres",
+  "term_start6": "25 November 1997",
+  "term_end6": "25 October 1999",
+  "predecessor6": "Luís Filipe Menezes",
+  "successor6": "Luís Marques Mendes",
+  "office7": "Member of the Assembly of the Republic",
+  "term_start7": "23 October 2015",
+  "term_end7": "26 November 2015",
+  "constituency7": "Lisbon",
+  "term_start8": "6 April 2002",
+  "term_end8": "13 June 2004",
+  "constituency8": "Leiria",
+  "term_start9": "6 October 1991",
+  "term_end9": "28 October 1995",
+  "constituency9": "Lisbon",
+  "office10": "Member of the European Parliament\n\nfor Portugal",
+  "term_start10": "20 July 2004",
+  "term_end10": "11 March 2005",
+  "birth_name": "António Luís Santos da Costa",
+  "birth_date": "July 17, 1961",
+  "birth_place": "Lisbon, Portugal",
+  "party": "Socialist",
+  "spouse": "Fernanda Tadeu (m. 31 July 1987)",
+  "children": "2",
+  "parents": "Orlando da Costa\n\nMaria Antónia Palla",
+  "alma_mater": "University of Lisbon",
+  "residence": "São Bento Mansion",
+  "signature": "AssinaturaAntónioCosta.svg",
+  "website": "Official website"
 }

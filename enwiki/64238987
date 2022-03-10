@@ -1,194 +1,22 @@
 {
-  "title": "João Leão",
-  "pageID": 64238987,
-  "categories": [
-    "Finance ministers of Portugal",
-    "Portuguese economists",
-    "Portuguese politicians",
-    "Portuguese people of Goan descent",
-    "1974 births",
-    "Living people",
-    "People from Lisbon"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "João Rodrigo Reis Carvalho Leão (born 15 February 1974) is a Portuguese economist, university professor, and politician.",
-              "links": [
-                {
-                  "text": "university professor",
-                  "type": "internal",
-                  "page": "university professor"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "João Rodrigo Reis Carvalho Leão"
-                ]
-              }
-            },
-            {
-              "text": "He currently serves as Minister of Finance in the government of Prime Minister António Costa of Portugal, sworn in on 15 June 2020.",
-              "links": [
-                {
-                  "text": "Minister of Finance",
-                  "type": "internal",
-                  "page": "Ministry of Finance (Portugal)"
-                },
-                {
-                  "type": "internal",
-                  "page": "António Costa"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Portuguese economist, university professor, and politician",
-          "template": "short description"
-        },
-        {
-          "date": "July 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1974",
-          "month": "02",
-          "day": "15",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "João Leão (Principais acontecimentos que marcaram o ano 2020, Agência Lusa).png"
-          },
-          "office": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Ministry of Finance (Portugal)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "15 June 2020"
-          },
-          "primeminister": {
-            "text": "António Costa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "António Costa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Mário Centeno",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mário Centeno"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Secretary of State for the Budget"
-          },
-          "term_start2": {
-            "text": "26 November 2015"
-          },
-          "term_end2": {
-            "text": "15 June 2020"
-          },
-          "primeminister2": {
-            "text": "António Costa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "António Costa"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Hélder Gomes dos Reis"
-          },
-          "successor2": {
-            "text": "Cláudia Joaquim"
-          },
-          "birth_name": {
-            "text": "João Rodrigo Reis Carvalho Leão"
-          },
-          "birth_date": {
-            "text": "February 15, 1974"
-          },
-          "birth_place": {
-            "text": "Lisbon, Portugal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lisbon"
-              }
-            ]
-          },
-          "party": {
-            "text": "Socialist",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Socialist"
-              }
-            ]
-          },
-          "blank1": {
-            "text": "Institute"
-          },
-          "data1": {
-            "text": "ISCTE – University Institute of Lisbon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "ISCTE – University Institute of Lisbon"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "NOVA University Lisbon\nMassachusetts Institute of Technology",
-            "links": [
-              {
-                "type": "internal",
-                "page": "NOVA University Lisbon"
-              },
-              {
-                "type": "internal",
-                "page": "Massachusetts Institute of Technology"
-              }
-            ]
-          },
-          "blank2": {
-            "text": "Doctoral advisor"
-          },
-          "data2": {
-            "text": "Abhijit Banerjee",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abhijit Banerjee"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "João Leão (Principais acontecimentos que marcaram o ano 2020, Agência Lusa).png",
+  "office": "Minister of Finance",
+  "term_start": "15 June 2020",
+  "primeminister": "António Costa",
+  "predecessor": "Mário Centeno",
+  "office2": "Secretary of State for the Budget",
+  "term_start2": "26 November 2015",
+  "term_end2": "15 June 2020",
+  "primeminister2": "António Costa",
+  "predecessor2": "Hélder Gomes dos Reis",
+  "successor2": "Cláudia Joaquim",
+  "birth_name": "João Rodrigo Reis Carvalho Leão",
+  "birth_date": "February 15, 1974",
+  "birth_place": "Lisbon, Portugal",
+  "party": "Socialist",
+  "blank1": "Institute",
+  "data1": "ISCTE – University Institute of Lisbon",
+  "alma_mater": "NOVA University Lisbon\nMassachusetts Institute of Technology",
+  "blank2": "Doctoral advisor",
+  "data2": "Abhijit Banerjee"
 }
