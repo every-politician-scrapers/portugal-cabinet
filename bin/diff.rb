@@ -4,7 +4,7 @@
 require 'every_politician_scraper/comparison'
 
 # Process the data from each source before comparison
-class Comparison < EveryPoliticianScraper::Comparison
+class Comparison < EveryPoliticianScraper::NulllessComparison
   def external
     super.delete_if { |row| row[:position].to_s =~ /(secretary of state)|(deputy minister)/i }
   end
