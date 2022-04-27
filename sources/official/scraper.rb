@@ -6,16 +6,26 @@ require 'pry'
 
 class MemberList
   class Member
+    POSITION_MAP = {
+      'Minister of the Economy and Maritime Affairs' => ['Minister of the Economy', 'Minister of Maritime Affairs'],
+    }.freeze
+
     def name
       noko.css('.name').text.tidy
     end
 
     def position
-      noko.css('.title').text.tidy
+      POSITION_MAP.fetch(raw_position, raw_position)
     end
 
     field :start do
       noko.css('.period div').last.text[/(\d{4}-\d{2}-\d{2})/, 1]
+    end
+
+    private
+
+    def raw_position
+      noko.css('.title').text.tidy
     end
   end
 
