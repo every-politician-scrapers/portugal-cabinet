@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Portugal",
+      "id": "Q45"
+    },
+    "cabinet": {
+      "id": "Q110819776",
+      "start": "2022-03-30",
+      "parent": "Q16850120"
+    },
+    "source": {
+        "url":   "https://www.portugal.gov.pt/en/gc23/government",
+        "title": "Government Composition - XXIII Government - Portuguese Republic",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/portugal-cabinet"
+}
