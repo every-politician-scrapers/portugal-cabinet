@@ -20,10 +20,6 @@ class OfficeholderList < OfficeholderListBase
     def raw_combo_date
       noko.text.scan(/\((.*?)\)/).flatten.last.gsub('Presente', 'Incumbent')
     end
-
-    def ignore_before
-      1991
-    end
   end
 end
 
