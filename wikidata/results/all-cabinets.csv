@@ -55,13 +55,13 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q16144675,2nd Salazar Cabinet,1933-04-11,11,,,1936-01-18,11,,,,,,,Q9554609,1st Salazar Cabinet,Q16482723,3rd Oliveira de Salazar Cabinet
 ,Q16482723,3rd Oliveira de Salazar Cabinet,1936-01-18,11,,,1968-09-27,11,,,,,,,Q16144675,2nd Salazar Cabinet,Q16142337,Caetano Cabinet
 ,Q16142337,Caetano Cabinet,1968-09-27,11,,,1974-04-25,11,,,,,Q1701778,National Salvation Junta,Q16482723,3rd Oliveira de Salazar Cabinet,,
-,Q3148022,I Provisional Government of Portugal,1974-05-16,11,,,1974-07-17,11,,,Q1701778,National Salvation Junta,,,,,Q3146704,II Provisional Government of Portugal
-,Q3146704,II Provisional Government of Portugal,1974-07-17,11,,,1974-09-30,11,,,,,,,Q3148022,I Provisional Government of Portugal,Q3146693,III Provisional Government of Portugal
-,Q3146693,III Provisional Government of Portugal,1974-09-30,11,,,1975-03-26,11,,,,,,,Q3146704,II Provisional Government of Portugal,Q3147006,IV Provisional Government of Portugal
-,Q3147006,IV Provisional Government of Portugal,1975-03-26,11,,,1975-08-08,11,,,,,,,Q3146693,III Provisional Government of Portugal,Q10388602,V Provisional Government of Portugal
-,Q10388602,V Provisional Government of Portugal,1975-08-08,11,,,1975-09-19,11,,,,,,,Q3147006,IV Provisional Government of Portugal,Q10388573,VI Provisional Government of Portugal
-,Q10388573,VI Provisional Government of Portugal,1975-09-19,11,,,1976-07-23,11,,,,,Q678051,I Constitutional Government of Portugal,Q10388602,V Provisional Government of Portugal,,
-,Q678051,I Constitutional Government of Portugal,1976-07-23,11,,,1978-01-23,11,,,Q10388573,VI Provisional Government of Portugal,,,,,Q683287,II Constitutional Government of Portugal
+,Q3148022,First Provisional Government of Portugal,1974-05-16,11,,,1974-07-17,11,,,Q1701778,National Salvation Junta,,,,,Q3146704,Second Provisional Government of Portugal
+,Q3146704,Second Provisional Government of Portugal,1974-07-17,11,,,1974-09-30,11,,,,,,,Q3148022,First Provisional Government of Portugal,Q3146693,Third Provisional Government of Portugal
+,Q3146693,Third Provisional Government of Portugal,1974-09-30,11,,,1975-03-26,11,,,,,,,Q3146704,Second Provisional Government of Portugal,Q3147006,Fourth Provisional Government of Portugal
+,Q3147006,Fourth Provisional Government of Portugal,1975-03-26,11,,,1975-08-08,11,,,,,,,Q3146693,Third Provisional Government of Portugal,Q10388602,Fifth Provisional Government of Portugal
+,Q10388602,Fifth Provisional Government of Portugal,1975-08-08,11,,,1975-09-19,11,,,,,,,Q3147006,Fourth Provisional Government of Portugal,Q10388573,Sixth Provisional Government of Portugal
+,Q10388573,Sixth Provisional Government of Portugal,1975-09-19,11,,,1976-07-23,11,,,,,Q678051,I Constitutional Government of Portugal,Q10388602,Fifth Provisional Government of Portugal,,
+,Q678051,I Constitutional Government of Portugal,1976-07-23,11,,,1978-01-23,11,,,Q10388573,Sixth Provisional Government of Portugal,,,,,Q683287,II Constitutional Government of Portugal
 ,Q683287,II Constitutional Government of Portugal,1978-01-23,11,,,1978-08-29,11,,,,,,,Q678051,I Constitutional Government of Portugal,Q1720177,III Constitutional Government of Portugal
 ,Q1720177,III Constitutional Government of Portugal,1978-08-29,11,,,1978-11-22,11,,,,,,,Q683287,II Constitutional Government of Portugal,Q1281360,IV Constitutional Government of Portugal
 ,Q1281360,IV Constitutional Government of Portugal,1978-11-22,11,,,1979-07-07,11,,,,,,,Q1720177,III Constitutional Government of Portugal,Q10388603,V Constitutional Government of Portugal
