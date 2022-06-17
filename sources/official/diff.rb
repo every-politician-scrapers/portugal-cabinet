@@ -4,7 +4,7 @@
 require 'every_politician_scraper/comparison'
 
 # Process the data from each source before comparison
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   # Start date on official site is within the current Cabinet,
   # whereas Wikidata can span multiple Cabinets, so don't compare those
   def columns
