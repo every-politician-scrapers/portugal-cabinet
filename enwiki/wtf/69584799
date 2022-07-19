@@ -1,0 +1,263 @@
+{
+  "title": "Maria do Céu Antunes",
+  "pageID": 69584799,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Agriculture ministers of Portugal",
+    "Women government ministers of Portugal",
+    "Socialist Party (Portugal) politicians",
+    "Portuguese socialists",
+    "University of Coimbra alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maria do Céu de Oliveira Antunes (born July 10, 1970 in Abrantes) is a Portuguese politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abrantes"
+                },
+                {
+                  "text": "Portuguese",
+                  "type": "internal",
+                  "page": "Portugal"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Maria do Céu de Oliveira Antunes"
+                ]
+              }
+            },
+            {
+              "text": "She has a degree in Biochemistry from the Faculty of Sciences and Technologies of the University of Coimbra and has a postgraduate degree in Quality Management and Food Safety from the Instituto Superior de Ciências da Saúde Egas Moniz.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Coimbra"
+                },
+                {
+                  "type": "internal",
+                  "page": "Instituto Superior de Ciências da Saúde Egas Moniz"
+                }
+              ]
+            },
+            {
+              "text": "She was responsible for the Ministry of Agriculture in XXII Constitutional Government from October 26, 2019.",
+              "links": [
+                {
+                  "text": "XXII Constitutional Government",
+                  "type": "internal",
+                  "page": "XXII Constitutional Government of Portugal"
+                }
+              ]
+            },
+            {
+              "text": "In January 2022, she was elected to the Assembly of the Republic on the list of the victorious Socialist Party (PS), as a representative of Santarém District, and was reappointed as Minister of Agriculture and Food.",
+              "links": [
+                {
+                  "text": "Assembly of the Republic",
+                  "type": "internal",
+                  "page": "Assembly of the Republic (Portugal)"
+                },
+                {
+                  "text": "Socialist Party",
+                  "type": "internal",
+                  "page": "Socialist Party (Portugal)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Santarém District"
+                },
+                {
+                  "text": "Minister of Agriculture and Food",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture (Portugal)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before that, she had been Secretary of State for Regional Development in the XXI Constitutional Government of February 18 to October 26, 2019, and President of the Municipality of Abrantes for 9 years.",
+              "links": [
+                {
+                  "text": "XXI Constitutional Government",
+                  "type": "internal",
+                  "page": "XXI Constitutional Government of Portugal"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President (government title)"
+                },
+                {
+                  "text": "Municipality",
+                  "type": "internal",
+                  "page": "Câmara municipal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abrantes"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Portuguese politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1970",
+          "month": "7",
+          "day": "10",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office3": {
+            "text": "Minister of Agriculture and Food"
+          },
+          "term_start3": {
+            "text": "October 26, 2019"
+          },
+          "birth_date": {
+            "text": "July 10, 1970"
+          },
+          "birth_place": {
+            "text": "Abrantes, Portugal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abrantes"
+              },
+              {
+                "type": "internal",
+                "page": "Portugal"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party (Portugal)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "Publicada por tomarnarede",
+          "url": "http://tomarnarede.blogspot.com/2019/02/presidente-da-camara-de-abrantes.html",
+          "title": "Tomar na Rede: Presidente da câmara de Abrantes nomeada Secretária de Estado do Desenvolvimento Regional",
+          "publisher": "Tomarnarede.blogspot.com",
+          "accessdate": "2021-12-24",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.portugal.gov.pt/pt/gc22/area-de-governo/agricultura/ministro",
+          "title": "Maria do Céu Antunes - Ministra da Agricultura - Agricultura - XXII Governo - República Portuguesa",
+          "publisher": "Portugal.gov.pt",
+          "accessdate": "2021-12-24",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Legislativas: Os 117 deputados eleitos pelo PS",
+          "url": "https://ps.pt/legislativas-os-117-deputados-eleitos-pelo-ps/",
+          "website": "PS",
+          "access-date": "2 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Maria do Céu Antunes, de presidente da Câmara a ministra da Agricultura",
+          "url": "https://sicnoticias.pt/pais/governo/maria-do-ceu-antunes-de-presidente-da-camara-a-ministra-da-agricultura/",
+          "website": "SIC Noticias",
+          "access-date": "25 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Controversies",
+      "depth": 0
+    },
+    {
+      "title": "Jorge Ferreira Dias case",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During her 9-year term as Mayor of Abrantes, Maria do Céu de Albuquerque got involved in controversies with construction entrepreneur Jorge Ferreira Dias, over land disputes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abrantes"
+                }
+              ]
+            },
+            {
+              "text": "This case became more visible through the reporting of Ana Leal on TVI.",
+              "links": [
+                {
+                  "text": "TVI",
+                  "type": "internal",
+                  "page": "Televisão Independente"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "author": "Paula Mourato",
+          "url": "https://www.mediotejo.net/abrantes-nasceu-pobre-construiu-empreendimentos-ganhou-milhoes-e-perdeu-tudo-a-historia-de-jorge-ferreira-dias/",
+          "title": "Abrantes &#124; Nasceu pobre, construiu empreendimentos, ganhou milhões e perdeu tudo: a história de Jorge Ferreira Dias &#124; Médio Tejo",
+          "publisher": "Mediotejo.net",
+          "accessdate": "2021-12-24",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://tvi24.iol.pt/sociedade/programa-ana-leal/ana-leal-disputa-de-terreno-com-autarquia-deixa-milionario-na-miseria",
+          "title": "\"Ana Leal\": disputa de terreno com autarquia deixa milionário na miséria",
+          "publisher": "TVI24",
+          "date": "2019-05-30",
+          "accessdate": "2021-12-24",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

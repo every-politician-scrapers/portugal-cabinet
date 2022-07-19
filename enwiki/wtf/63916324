@@ -1,0 +1,845 @@
+{
+  "title": "Elvira Fortunato",
+  "pageID": 63916324,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Members of Academia Europaea",
+    "People from Almada",
+    "Portuguese physicists",
+    "Members of the Lisbon Academy of Sciences",
+    "Portuguese women scientists",
+    "NOVA University Lisbon alumni",
+    "NOVA University Lisbon faculty",
+    "Materials scientists and engineers",
+    "Portuguese inventors",
+    "Grand Officers of the Order of Prince Henry",
+    "Women government ministers of Portugal"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Elvira Maria Correia Fortunato (born 22 July 1964) is a Portuguese scientist and minister of science and technology.",
+              "formatting": {
+                "bold": [
+                  "Elvira Maria Correia Fortunato"
+                ]
+              }
+            },
+            {
+              "text": "She is a professor in the Department of Materials Science at the NOVA School of Science and Technology and vice-rector of the NOVA University Lisbon.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NOVA School of Science and Technology"
+                },
+                {
+                  "type": "internal",
+                  "page": "NOVA University Lisbon"
+                }
+              ]
+            },
+            {
+              "text": "Fortunato is an innovator in the field of paper electronics, including transistors, memories, sensors, batteries, displays, antennas, and solar cells.",
+              "links": [
+                {
+                  "text": "electronics",
+                  "type": "internal",
+                  "page": "electronics"
+                },
+                {
+                  "text": "transistors",
+                  "type": "internal",
+                  "page": "transistor"
+                },
+                {
+                  "text": "sensors",
+                  "type": "internal",
+                  "page": "sensor"
+                },
+                {
+                  "text": "displays",
+                  "type": "internal",
+                  "page": "Display device"
+                },
+                {
+                  "text": "solar cells",
+                  "type": "internal",
+                  "page": "solar cell"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2022, Fortunato was appointed Minister of Science, Technology and Higher Education in the XXIII Constitutional Government of Portugal as an independent, succeeding Manuel Heitor.",
+              "links": [
+                {
+                  "text": "Minister of Science, Technology and Higher Education",
+                  "type": "internal",
+                  "page": "Ministry of Science, Technology and Higher Education"
+                },
+                {
+                  "type": "internal",
+                  "page": "XXIII Constitutional Government of Portugal"
+                },
+                {
+                  "text": "independent",
+                  "type": "internal",
+                  "page": "Independent politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Manuel Heitor"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Portuguese physicist",
+          "template": "short description"
+        },
+        {
+          "date": "May 2020",
+          "template": "use mdy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1964",
+          "month": "07",
+          "day": "22",
+          "template": "birth date and age"
+        },
+        {
+          "post-noms": "GOIH",
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Elvira Fortunato"
+          },
+          "honorific-suffix": {
+            "text": "GOIH",
+            "links": [
+              {
+                "text": "GOIH",
+                "type": "internal",
+                "page": "Order of Prince Henry"
+              }
+            ]
+          },
+          "image": {
+            "text": "Elvira Fortunato (27 femmes racontées par Emilie Broussouloux - Présidence Française du Conseil de l'Union Européenne), cropped.png"
+          },
+          "office": {
+            "text": "Minister of Science, Technology and Higher Education",
+            "links": [
+              {
+                "text": "Minister of Science, Technology and Higher Education",
+                "type": "internal",
+                "page": "Ministry of Science, Technology and Higher Education"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "António Costa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "António Costa"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 March 2022"
+          },
+          "predecessor": {
+            "text": "Manuel Heitor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manuel Heitor"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 22, 1964"
+          },
+          "birth_place": {
+            "text": "Almada, Portugal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Almada"
+              },
+              {
+                "type": "internal",
+                "page": "Portugal"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "NOVA School of Science and Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "NOVA School of Science and Technology"
+              }
+            ]
+          },
+          "organization": {
+            "text": "NOVA School of Science and Technology"
+          },
+          "known_for": {
+            "text": "Inventor of the paper transistor"
+          },
+          "awards": {
+            "text": "Blaise Pascal Medal (2016) Czochralski Medal (2017) Pessoa Prize (2020)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pessoa Prize"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Short CV Elvira Fortunato",
+          "url": "https://ec.europa.eu/research/sam/pdf/cv/cv_e-fortunato_2015.pdf",
+          "website": "European Commission",
+          "url-status": "live",
+          "access-date": "2020-05-10",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.intechopen.com/books/nanostructured-solar-cells",
+          "title": "Nanostructured Solar Cells",
+          "date": "2017-02-22",
+          "publisher": "InTech",
+          "isbn": "978-953-51-2935-6",
+          "editor-last": "Das",
+          "editor-first": "Narottam",
+          "language": "en",
+          "doi": "10.5772/62516",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Elvira MC Fortunato's Publons profile",
+          "url": "https://publons.com/researcher/2789270/elvira-mc-fortunato/",
+          "website": "publons.com",
+          "language": "en",
+          "access-date": "2020-05-10",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.jn.pt/nacional/a-cientista-que-vai-tomar-conta-da-ciencia-e-do-superior-14708200.html",
+          "title": "Elvira Fortunato: a cientista que vai tomar conta da Ciência e do Superior",
+          "last": "Inácio",
+          "first": "Alexandra",
+          "date": "23 March 2022",
+          "publisher": "Jornal de Notícias",
+          "access-date": "24 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fortunato was born in Almada, and received her degree in Materials Science and Physics in 1987 from the NOVA School of Science and Technology and continued her graduate studies at the same university.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Almada"
+                },
+                {
+                  "text": "Materials Science",
+                  "type": "internal",
+                  "page": "Materials science"
+                },
+                {
+                  "type": "internal",
+                  "page": "Physics"
+                },
+                {
+                  "type": "internal",
+                  "page": "NOVA School of Science and Technology"
+                }
+              ]
+            },
+            {
+              "text": "In 1991 Fortunato received her master's degree in Semiconductor Materials and in 1995 her Ph.D. in Microelectronics and Optoelectronics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Microelectronics"
+                },
+                {
+                  "type": "internal",
+                  "page": "Optoelectronics"
+                }
+              ]
+            },
+            {
+              "text": "In 2005 she obtained her habilitation in the same field."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Elvira Fortunato {{!}} CENIMAT",
+          "url": "https://www.cenimat.fct.unl.pt/pessoas/people/elvira-fortunato",
+          "website": "www.cenimat.fct.unl.pt",
+          "access-date": "2020-05-10",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fortunato joined the faculty at the NOVA School of Science and Technology in 1995, and became director of the Institute of Nanostructures, Nanomodeling, and Nanofabrication in 1998.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NOVA School of Science and Technology"
+                }
+              ]
+            },
+            {
+              "text": "She led a research team achieved acclaim for inventing the paper transistor in 2008."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Fortunato is an elected member of Academy of Engineering, European Academy of Sciences, Lisbon Academy of Sciences, and Academia Europaea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lisbon Academy of Sciences"
+                },
+                {
+                  "type": "internal",
+                  "page": "Academia Europaea"
+                }
+              ]
+            },
+            {
+              "text": "She is Associate Editor of Rapid Research Letters Physica Status Solidi, Co-Editor of Europhysics Letters, and an Editorial Advisory Board Member of ACS Applied Materials & Interfaces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Europhysics Letters"
+                },
+                {
+                  "type": "internal",
+                  "page": "ACS Applied Materials & Interfaces"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Rapid Research Letters Physica Status Solidi",
+                  "Europhysics Letters",
+                  "ACS Applied Materials & Interfaces"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has been the vice-rector of NOVA University Lisbon since 2017, and is in charge of coordinating the university's research.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NOVA University Lisbon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2022, she was part of the group of 27 inspiring women from Europe, elected by the current French Presidency of the European Union."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2022 she joined the Government of the Portuguese Republic as Minister of Science, Technology and Higher Education."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "13 May 2016",
+          "title": "Microchips made of paper: Elvira Fortunato and Rodrigo Martins named European Inventor Award 2016 finalists",
+          "url": "https://www.advancedsciencenews.com/microchips-made-of-paper/",
+          "url-status": "live",
+          "access-date": "21 February 2021",
+          "website": "Advanced Science News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ae-info.org/ae/Member/Fortunato_Elvira",
+          "archive-url": "https://web.archive.org/web/20200521094624/https://www.ae-info.org/ae/Member/Fortunato_Elvira",
+          "title": "Elvira Fortunato",
+          "publisher": "Academia Europaea",
+          "archive-date": "21 May 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2017-09-26",
+          "title": "Elvira Fortunato",
+          "url": "https://www.unl.pt/pessoas/elvira-fortunato",
+          "access-date": "2022-04-08",
+          "website": "Universidade NOVA de Lisboa",
+          "language": "pt-pt",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Elvira Fortunato (0000-0002-4202-7047)",
+          "url": "https://orcid.org/0000-0002-4202-7047",
+          "last": "ORCID",
+          "website": "orcid.org",
+          "language": "en",
+          "access-date": "2020-05-10",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-03-24",
+          "title": "Elvira Fortunato appointed as Minister of Science, Technology and Higher Education",
+          "url": "https://www.fct.unl.pt/en/news/2022/03/elvira-fortunato-appointed-minister-science-technology-and-higher-education",
+          "access-date": "2022-03-27",
+          "website": "fct.unl.pt",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Research",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fortunato's research focuses on exploring new electronic active materials that are environmentally friendly and compatible with flexible electronics.",
+              "links": [
+                {
+                  "text": "environmentally friendly",
+                  "type": "internal",
+                  "page": "environmentally friendly"
+                },
+                {
+                  "text": "flexible electronics",
+                  "type": "internal",
+                  "page": "flexible electronics"
+                }
+              ]
+            },
+            {
+              "text": "This led to the invention of the first paper transistor in 2008, which used paper, a low-cost and flexible biopolymer, as the insulator layer (gate dielectric) of a thin-film transistor, replacing the commonly used silicon.",
+              "links": [
+                {
+                  "text": "biopolymer",
+                  "type": "internal",
+                  "page": "biopolymer"
+                }
+              ]
+            },
+            {
+              "text": "She pioneered European research on transparent electronics, namely thin-film transistors based on oxide semiconductors, demonstrating that oxide materials can be used as true semiconductors.",
+              "links": [
+                {
+                  "text": "thin-film transistors",
+                  "type": "internal",
+                  "page": "thin-film transistor"
+                },
+                {
+                  "text": "semiconductors",
+                  "type": "internal",
+                  "page": "semiconductor"
+                },
+                {
+                  "text": "oxide",
+                  "type": "internal",
+                  "page": "oxide"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Fortunato's paper electronics technology has applications that include biosensors, radiofrequency identification (RFID) tags in shipping, and product inventory management",
+              "links": [
+                {
+                  "text": "biosensors",
+                  "type": "internal",
+                  "page": "biosensor"
+                },
+                {
+                  "text": "RFID",
+                  "type": "internal",
+                  "page": "Radio-frequency identification"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Full Page Reload",
+          "url": "https://spectrum.ieee.org/computing/hardware/paper-transistor",
+          "website": "IEEE Spectrum: Technology, Engineering, and Science News",
+          "language": "en",
+          "access-date": "2020-05-20",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Research {{!}} CENIMAT",
+          "url": "https://www.cenimat.fct.unl.pt/rd-id-teams/materials-electronics-optoelectronics-and-nanotechnologies/research",
+          "website": "www.cenimat.fct.unl.pt",
+          "access-date": "2020-05-10",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Research activities {{!}} Elvira Fortunato",
+          "url": "https://docentes.fct.unl.pt/emf/pages/research-activities",
+          "website": "docentes.fct.unl.pt",
+          "language": "en",
+          "access-date": "2020-05-11",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Microchips made of paper: Elvira Fortunato and Rodrigo Martins named European Inventor Award 2016 finalists",
+          "url": "https://www.advancedsciencenews.com/microchips-made-of-paper/",
+          "last": "News",
+          "first": "Advanced Science",
+          "date": "2016-05-13",
+          "website": "Advanced Science News",
+          "language": "en-US",
+          "access-date": "2020-05-11",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Martins",
+          "first1": "Rodrigo",
+          "last2": "Barquinha",
+          "first2": "Pedro",
+          "last3": "Pereira",
+          "first3": "Luís",
+          "last4": "Correia",
+          "first4": "Nuno",
+          "last5": "Gonçalves",
+          "first5": "Gonçalo",
+          "last6": "Ferreira",
+          "first6": "Isabel",
+          "last7": "Fortunato",
+          "first7": "Elvira",
+          "date": "2008-11-17",
+          "title": "Write-erase and read paper memory transistor",
+          "url": "https://aip.scitation.org/doi/full/10.1063/1.3030873",
+          "journal": "Applied Physics Letters",
+          "volume": "93",
+          "issue": "20",
+          "pages": "203501",
+          "doi": "10.1063/1.3030873",
+          "bibcode": "2008ApPhL..93t3501M",
+          "issn": "0003-6951",
+          "hdl": "10362/3962",
+          "hdl-access": "free",
+          "template": "citation",
+          "type": "journal"
+        }
+      ]
+    },
+    {
+      "title": "Honors and awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fortunato has received national and international awards for her work."
+            },
+            {
+              "text": "In 2005 she received the prize for Scientific Excellence from the Portuguese Foundation for Science and Technology.",
+              "links": [
+                {
+                  "text": "Portuguese Foundation for Science and Technology",
+                  "type": "internal",
+                  "page": "Fundação para a Ciência e Tecnologia"
+                }
+              ]
+            },
+            {
+              "text": "In 2009, she was cited by the Portuguese Parliament for her research.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Portuguese Parliament"
+                }
+              ]
+            },
+            {
+              "text": "In 2010, she was awarded membership in the Order of Prince Henry by then-Portuguese President Aníbal Cavaco Silva.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of Prince Henry"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aníbal Cavaco Silva"
+                }
+              ]
+            },
+            {
+              "text": "In 2015, she was President of Portugal Day.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Portugal Day"
+                }
+              ]
+            },
+            {
+              "text": "In 2016 she was awarded the Blaise Pascal Medal in materials science by the European Academy of Sciences and in 2017, the Czochralski award in recognition of her research work in the area of Advanced Materials Science."
+            },
+            {
+              "text": "In 2018, she received a European Research Council grant worth €3.5 million, the largest grant ever awarded to a Portuguese researcher at the time of the award.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Research Council"
+                }
+              ]
+            },
+            {
+              "text": "She was the recipient of the 2020 Pessoa Prize, recognized as the most important award of the Portuguese culture.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pessoa Prize"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Recent Awards {{!}} Elvira Fortunato",
+          "url": "https://docentes.fct.unl.pt/emf/pages/recent-awards",
+          "website": "docentes.fct.unl.pt",
+          "language": "en",
+          "access-date": "2020-05-11",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ordens Nacionais - Pagina Oficial das Ordens Honorificas Portuguesas",
+          "url": "http://www.ordens.presidencia.pt/?idc=111&idi=5779",
+          "website": "Orden Honorificas Portuguesas",
+          "archive-url": "https://web.archive.org/web/20200901173949/http://www.ordens.presidencia.pt/?idc=111&idi=5779",
+          "access-date": "1 September 2020",
+          "archive-date": "September 1, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Professor Elvira Fortunato presides 10th June Celebrations",
+          "url": "https://www.fct.unl.pt/en/news/2015/06/professor-elvira-fortunato-presides-10th-june-celebrations",
+          "website": "Universidade Nova de Lisboa",
+          "publisher": "fct.unl.pt",
+          "archive-url": "https://web.archive.org/web/20200901174502/https://www.fct.unl.pt/en/news/2015/06/professor-elvira-fortunato-presides-10th-june-celebrations",
+          "access-date": "1 September 2020",
+          "archive-date": "September 1, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "EURASC Awardees",
+          "url": "https://www.eurasc.org/eurasc-awardees/blaise-pascal-medals",
+          "website": "European Academy of Sciences",
+          "publisher": "www.eurasc.org",
+          "archive-url": "https://web.archive.org/web/20200807221955/https://www.eurasc.org/eurasc-awardees/blaise-pascal-medals",
+          "access-date": "1 September 2020",
+          "archive-date": "August 7, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Professor Elvira Fortunato, Vice-Rector of NOVA, Receives Maximum Amount ERC Advanced Grant for the First Time Awarded to Portugal",
+          "url": "https://www.unl.pt/en/news/general/professor-elvira-fortunato-vice-rector-nova-receives-maximum-amount-erc-advanced-grant",
+          "website": "Universidade Nova de Lisboa",
+          "publisher": "www.unl.pt",
+          "archive-url": "https://web.archive.org/web/20180424015358/https://www.unl.pt/en/news/general/professor-elvira-fortunato-vice-rector-nova-receives-maximum-amount-erc-advanced-grant",
+          "access-date": "1 September 2020",
+          "archive-date": "April 24, 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "National orders",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "PRT Order of Prince Henry - Grand Officer BAR.svg Grand Officer of the Order of Prince Henry the Navigator (8 June 2010)",
+            "links": [
+              {
+                "text": "Order of Prince Henry the Navigator",
+                "type": "internal",
+                "page": "Order of Prince Henry"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "title": "Cidadãos Nacionais Agraciados com Ordens Portuguesas",
+          "url": "http://www.ordens.presidencia.pt/?idc=153&list=1",
+          "website": "Página Oficial das Ordens Honoríficas Portuguesas",
+          "accessdate": "24 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "23rd constitutional government of portugal"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Elvira Fortunato profile at FCT-UNL",
+            "links": [
+              {
+                "text": "Elvira Fortunato profile at FCT-UNL",
+                "type": "external",
+                "site": "https://docentes.fct.unl.pt/emf/"
+              }
+            ]
+          },
+          {
+            "text": "Elvira's Fortunato group",
+            "links": [
+              {
+                "text": "Elvira's Fortunato group",
+                "type": "external",
+                "site": "https://www.cenimat.fct.unl.pt/rd-id-teams/materials-electronics-optoelectronics-and-nanotechnologies/research"
+              }
+            ]
+          },
+          {
+            "text": "Advanced Science News: Elvira Fortunato and Rodrigo Martins named European Inventor Award 2016 finalists",
+            "links": [
+              {
+                "text": "Advanced Science News: Elvira Fortunato and Rodrigo Martins named European Inventor Award 2016 finalists",
+                "type": "external",
+                "site": "https://www.advancedsciencenews.com/microchips-made-of-paper/"
+              }
+            ]
+          },
+          {
+            "text": "Paper electronics: a sustainable multifunctional platform",
+            "links": [
+              {
+                "text": "Paper electronics: a sustainable multifunctional platform",
+                "type": "external",
+                "site": "https://ieeexplore.ieee.org/document/8442238"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

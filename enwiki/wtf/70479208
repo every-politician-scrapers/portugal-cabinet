@@ -1,0 +1,109 @@
+{
+  "title": "José Luís Carneiro",
+  "pageID": 70479208,
+  "categories": [
+    "Living people",
+    "1971 births",
+    "21st-century Portuguese politicians",
+    "Socialist Party (Portugal) politicians",
+    "Lusíada University of Porto alumni",
+    "Government ministers of Portugal"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Luís Pereira Carneiro (born 4 October 1971) is a Portuguese politician from the Socialist Party.",
+              "links": [
+                {
+                  "text": "Socialist Party",
+                  "type": "internal",
+                  "page": "Socialist Party (Portugal)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José Luís Pereira Carneiro"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:José_Luís_Carneiro,_Secretário_de_Estado_das_Comunidades_Portuguesas2.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Jos%C3%A9_Lu%C3%ADs_Carneiro%2C_Secret%C3%A1rio_de_Estado_das_Comunidades_Portuguesas2.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Jos%C3%A9_Lu%C3%ADs_Carneiro%2C_Secret%C3%A1rio_de_Estado_das_Comunidades_Portuguesas2.png",
+          "caption": "José Luís Carneiro in 2017.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Portuguese politician",
+          "template": "short description"
+        },
+        {
+          "topic": "bio",
+          "date": "April 2022",
+          "template": "expand portuguese"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He has been Minister of Internal Administration in the XXIII Constitutional Government of Portugal since 30 March 2022.",
+              "links": [
+                {
+                  "text": "Minister of Internal Administration",
+                  "type": "internal",
+                  "page": "Ministry of Internal Administration (Portugal)"
+                },
+                {
+                  "type": "internal",
+                  "page": "XXIII Constitutional Government of Portugal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Biografia",
+          "url": "https://www.parlamento.pt:443/DeputadoGP/Paginas/Biografia.aspx?BID=2105",
+          "access-date": "2022-04-06",
+          "website": "www.parlamento.pt",
+          "language": "pt-PT",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "portugal-politician-stub"
+        },
+        {
+          "template": "23rd constitutional government of portugal"
+        }
+      ]
+    }
+  ]
+}

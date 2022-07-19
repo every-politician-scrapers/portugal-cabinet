@@ -1,0 +1,822 @@
+{
+  "title": "Fernando Medina",
+  "pageID": 52219307,
+  "categories": [
+    "University of Porto alumni",
+    "Members of the Assembly of the Republic (Portugal)",
+    "Portuguese economists",
+    "Portuguese sociologists",
+    "1973 births",
+    "Socialist Party (Portugal) politicians",
+    "Mayors of Lisbon",
+    "People from Porto",
+    "Living people",
+    "Finance ministers of Portugal"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fernando Medina Maciel Almeida Correia (born 10 March 1973) is a Portuguese economist and politician Socialist Party (PS) who has been serving as Minister of Finance in the government of Prime Minister António Costa since 2022.",
+              "links": [
+                {
+                  "text": "Socialist Party",
+                  "type": "internal",
+                  "page": "Socialist Party (Portugal)"
+                },
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Portugal)"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "XXIII Constitutional Government of Portugal"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Portugal"
+                },
+                {
+                  "type": "internal",
+                  "page": "António Costa"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fernando Medina Maciel Almeida Correia"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as Mayor of Lisbon from 2015, succeeding Costa, to 2021.",
+              "links": [
+                {
+                  "text": "Mayor of Lisbon",
+                  "type": "internal",
+                  "page": "List of mayors of Lisbon"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Portuguese economist and politician",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2015",
+            "month": "4",
+            "date": "6",
+            "df": "yes",
+            "template": "start date",
+            "text": "April 6, 2015"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2021",
+            "month": "10",
+            "date": "18",
+            "df": "yes",
+            "template": "end date",
+            "text": "October 18, 2021"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2013",
+            "month": "10",
+            "date": "24",
+            "df": "yes",
+            "template": "start date",
+            "text": "October 24, 2013"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2015",
+            "month": "4",
+            "date": "6",
+            "df": "yes",
+            "template": "end date",
+            "text": "April 6, 2015"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2009",
+            "month": "10",
+            "date": "31",
+            "df": "yes",
+            "template": "start date",
+            "text": "October 31, 2009"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2011",
+            "month": "06",
+            "date": "21",
+            "df": "yes",
+            "template": "end date",
+            "text": "June 21, 2011"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2005",
+            "month": "3",
+            "date": "14",
+            "df": "yes",
+            "template": "start date",
+            "text": "March 14, 2005"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2009",
+            "month": "10",
+            "date": "26",
+            "df": "yes",
+            "template": "end date",
+            "text": "October 26, 2009"
+          }
+        },
+        {
+          "year": "1973",
+          "month": "03",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Fernando Medina"
+          },
+          "image": {
+            "text": "Web Summit 2018 - Fernando Medina.jpg"
+          },
+          "office": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance (Portugal)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 March 2022"
+          },
+          "primeminister": {
+            "text": "António Costa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "António Costa"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "João Leão",
+            "links": [
+              {
+                "type": "internal",
+                "page": "João Leão"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Mayor of Lisbon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayor of Lisbon"
+              }
+            ]
+          },
+          "deputy2": {
+            "text": "Duarte Cordeiro João Paulo Saraiva",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Duarte Cordeiro"
+              },
+              {
+                "type": "internal",
+                "page": "João Paulo Saraiva"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "April 6, 2015"
+          },
+          "term_end2": {
+            "text": "October 18, 2021"
+          },
+          "predecessor2": {
+            "text": "António Costa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "António Costa"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Carlos Moedas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carlos Moedas"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Deputy Mayor of Lisbon"
+          },
+          "term_start3": {
+            "text": "October 24, 2013"
+          },
+          "term_end3": {
+            "text": "April 6, 2015"
+          },
+          "1blankname3": {
+            "text": "Mayor"
+          },
+          "1namedata3": {
+            "text": "António Costa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "António Costa"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Manuel Salgado",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manuel Salgado"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Duarte Cordeiro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Duarte Cordeiro"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Assistant Secretary of State for Industry and Development",
+            "links": [
+              {
+                "text": "Assistant Secretary of State for Industry and Development",
+                "type": "internal",
+                "page": "Ministry of Economy (Portugal)"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "José Sócrates",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Sócrates"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "October 31, 2009"
+          },
+          "term_end4": {
+            "text": "June 21, 2011"
+          },
+          "predecessor4": {
+            "text": "António Castro Guerra"
+          },
+          "successor4": {
+            "text": "António Almeida Henriques"
+          },
+          "office5": {
+            "text": "Secretary of State for Employment and Vocational Training",
+            "links": [
+              {
+                "text": "Secretary of State for Employment and Vocational Training",
+                "type": "internal",
+                "page": "Ministry of Labour, Solidarity and Social Security"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "José Sócrates",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Sócrates"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "March 14, 2005"
+          },
+          "term_end5": {
+            "text": "October 26, 2009"
+          },
+          "predecessor5": {
+            "text": "Luís Pais Antunes"
+          },
+          "successor5": {
+            "text": "Valter Lemos"
+          },
+          "birth_name": {
+            "text": "Fernando Medina Maciel Almeida Correia"
+          },
+          "birth_date": {
+            "text": "March 10, 1973"
+          },
+          "birth_place": {
+            "text": "Porto, Portugal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Porto"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist",
+            "links": [
+              {
+                "text": "Socialist",
+                "type": "internal",
+                "page": "Socialist Party (Portugal)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Porto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Porto"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.jornaldenegocios.pt/economia/detalhe/fernando_medina_toma_posse_como_presidente_da_camara_de_lisboa_a_8_de_abril",
+          "title": "Fernando Medina toma posse como presidente da Câmara de Lisboa a 6 de Abril",
+          "language": "pt-PT",
+          "access-date": "2016-11-08",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://observador.pt/2015/03/31/fernando-medina-quem-e-o-novo-presidente-da-camara-de-lisboa/",
+          "title": "Fernando Medina: quem é o novo presidente da Câmara de Lisboa",
+          "last": "Avillez",
+          "first": "Maria João",
+          "website": "Observador",
+          "access-date": "2016-11-08",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Medina was born in Porto to Edgar Marciel Almeida Correia and Maria Helena Guimarães Medina.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Porto"
+                }
+              ]
+            },
+            {
+              "text": "He has a degree in Economics from the Faculty of Economics of the University of Porto.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Economics"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Porto"
+                }
+              ]
+            },
+            {
+              "text": "He also holds a master's degree in Economic Sociology from the Instituto Superior de Economia e Gestão.",
+              "links": [
+                {
+                  "text": "Economic Sociology",
+                  "type": "internal",
+                  "page": "Economic sociology"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "Early beginnings",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During his time at university, Medina was the President of the Faculty's Students' Union and then the President of the Students' Unions' Federation of Porto."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2000 to 2002, Medina served as adviser to Prime Minister António Guterres, first on education and science and later on economic policy.",
+              "links": [
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Portugal"
+                },
+                {
+                  "type": "internal",
+                  "page": "António Guterres"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the 2005 national elections, incoming Prime Minister José Sócrates appointed Medina as Secretary of State for Employment and Professional Training, serving under Minister of Labor José António Vieira da Silva.",
+              "links": [
+                {
+                  "text": "2005 national elections",
+                  "type": "internal",
+                  "page": "2005 Portuguese legislative election"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Portugal"
+                },
+                {
+                  "type": "internal",
+                  "page": "José Sócrates"
+                },
+                {
+                  "text": "Minister of Labor",
+                  "type": "internal",
+                  "page": "Ministry of Labour, Solidarity and Social Security"
+                },
+                {
+                  "type": "internal",
+                  "page": "José António Vieira da Silva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mayor of Lisbon, 2015–2021",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In June 2021, Medina faced calls for his resignation as a result of his government's decision of January 2021 to share the personal information of at least three Lisbon-based Russian dissidents with Russian authorities."
+            },
+            {
+              "text": "In response, he ruled out stepping down and instead apologized for what he initially described as a \"bureaucratic error\"."
+            },
+            {
+              "text": "Afterwards, municipal authorities admitted that since 2011 Lisbon’s city hall had regularly disclosed the personal information of human rights activists, including \"names, identification numbers, home addresses and telephone numbers\", with several repressive regimes, including Angola, China and Venezuela.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Angola"
+                },
+                {
+                  "type": "internal",
+                  "page": "China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Venezuela"
+                }
+              ]
+            },
+            {
+              "text": "Portuguese President Marcelo Rebelo de Sousa described the situation as \"deeply regrettable\" and declared that everyone deserved to have their fundamental rights respected in a democratic country.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marcelo Rebelo de Sousa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Medina lost his re-election bid in the 2021 local elections, and was succeeded as Mayor by Carlos Moedas.",
+              "links": [
+                {
+                  "text": "2021 local elections",
+                  "type": "internal",
+                  "page": "2021 Portuguese local elections"
+                },
+                {
+                  "type": "internal",
+                  "page": "Carlos Moedas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "date": "2021-06-11",
+          "title": "Lisbon has shared dissident info with repressive regimes for years",
+          "url": "https://www.politico.eu/article/lisbon-portugal-dissidents-personal-data-repressive-regimes/",
+          "url-status": "live",
+          "access-date": "2021-06-18",
+          "website": "Politico",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.publico.pt/2021/09/27/politica/noticia/resultado-autarquicas-carlos-moedas-eleito-presidente-camara-lisboa-1978875",
+          "title": "Carlos Moedas eleito presidente da Câmara de Lisboa. “Ganhámos contra tudo e contra todos!”",
+          "last1": "Moreira",
+          "first1": "Cristiana Faria",
+          "last2": "Martins",
+          "first2": "Ruben",
+          "date": "27 September 2021",
+          "website": "Público",
+          "access-date": "27 September 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Minister of Finance, 2022–present",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After the Socialist Party's absolute majority victory in the 2022 Portuguese legislative election, he was sworn in as a member of parliament, and two days later, on March 30, 2022, was appointed Minister of Finance of the XXIII Constitutional Government.",
+              "links": [
+                {
+                  "text": "2022 Portuguese legislative election",
+                  "type": "internal",
+                  "page": "2022 Portuguese legislative election"
+                },
+                {
+                  "text": "XXIII Constitutional Government",
+                  "type": "internal",
+                  "page": "XXIII Constitutional Government of Portugal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-03-23",
+          "title": "Fernando Medina é o novo ministro das Finanças",
+          "url": "https://sicnoticias.pt/pais/governo/fernando-medina-e-o-novo-ministro-das-financas/",
+          "url-status": "live",
+          "access-date": "2022-04-05",
+          "website": "SIC Notícias",
+          "language": "pt-PT",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "European Union organizations"
+          },
+          {
+            "text": "European Investment Bank (EIB), Ex-Officio Member of the Board of Governors (since 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "European Investment Bank"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "International organizations"
+          },
+          {
+            "text": "Asian Infrastructure Investment Bank (AIIB), Ex-Officio Member of the Board of Governors (since 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Asian Infrastructure Investment Bank"
+              }
+            ]
+          },
+          {
+            "text": "European Bank for Reconstruction and Development (EBRD), Ex-Officio Member of the Board of Governors (since 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "European Bank for Reconstruction and Development"
+              }
+            ]
+          },
+          {
+            "text": "Inter-American Development Bank (IAB), Ex-Officio Member of the Board of Governors (since 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Inter-American Development Bank"
+              }
+            ]
+          },
+          {
+            "text": "Multilateral Investment Guarantee Agency (MIGA), World Bank Group, Ex-Officio Member of the Board of Governors (since 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Multilateral Investment Guarantee Agency"
+              },
+              {
+                "type": "internal",
+                "page": "World Bank Group"
+              }
+            ]
+          },
+          {
+            "text": "World Bank, Ex-Officio Member of the Board of Governors (since 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "World Bank"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Medina is married with two sons and a daughter."
+            },
+            {
+              "text": "He plays the piano."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "portugal-economist-stub"
+        },
+        {
+          "template": "portugal-politician-stub"
+        }
+      ]
+    }
+  ]
+}

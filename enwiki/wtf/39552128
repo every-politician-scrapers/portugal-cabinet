@@ -1,0 +1,1073 @@
+{
+  "title": "Carlos Moedas",
+  "pageID": 39552128,
+  "categories": [
+    "1970 births",
+    "École des Ponts ParisTech alumni",
+    "Goldman Sachs people",
+    "Government ministers of Portugal",
+    "Grand Officers of the Order of Prince Henry",
+    "Harvard Business School alumni",
+    "Living people",
+    "People from Beja, Portugal",
+    "Portuguese bankers",
+    "Portuguese business executives",
+    "Portuguese economists",
+    "Portuguese European Commissioners",
+    "Members of the Assembly of the Republic (Portugal)",
+    "Social Democratic Party (Portugal) politicians",
+    "University of Lisbon alumni",
+    "European Commissioners 2014–2019",
+    "Alumni of the Erasmus Programme",
+    "Mayors of Lisbon"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Carlos Manuel Félix Moedas (born 10 August 1970) is a Portuguese civil engineer, economist and politician of the Social Democratic Party (PSD).",
+              "links": [
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Social Democratic Party (Portugal)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Carlos Manuel Félix Moedas"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2014 until 2019, Moedas served as European Commissioner covering the portfolio of Research, Science and Innovation under the leadership of President Jean-Claude Juncker.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Commissioner"
+                },
+                {
+                  "text": "Research, Science and  Innovation",
+                  "type": "internal",
+                  "page": "European Commissioner for Research, Innovation and Science"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of the European Commission"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jean-Claude Juncker"
+                }
+              ]
+            },
+            {
+              "text": "Between 2011 and 2014 he served as Secretary of State in the XIX Constitutional Government of Portugal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "XIX Constitutional Government of Portugal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2021, Moedas announced his candidacy as Mayor of Lisbon in the 2021 local elections, and was elected on 26 September of the same year.",
+              "links": [
+                {
+                  "text": "Mayor of Lisbon",
+                  "type": "internal",
+                  "page": "List of mayors of Lisbon"
+                },
+                {
+                  "text": "2021 local elections",
+                  "type": "internal",
+                  "page": "2021 Portuguese local elections"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Current mayor of Lisbon, Portugal",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2021",
+            "month": "10",
+            "date": "18",
+            "df": "yes",
+            "template": "start date",
+            "text": "October 18, 2021"
+          }
+        },
+        {
+          "year": "1970",
+          "month": "8",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Céline Dora Judith Abecassis",
+          "from": "2000",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Carlos Moedas"
+          },
+          "image": {
+            "text": "Carlos Moedas Web Summit 2021 - Opening night.jpg"
+          },
+          "office": {
+            "text": "Mayor of Lisbon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayor of Lisbon"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Filipe Anacoreta Correia"
+          },
+          "predecessor": {
+            "text": "Fernando Medina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fernando Medina"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "October 18, 2021"
+          },
+          "office2": {
+            "text": "European Commissioner for Research, Science and Innovation",
+            "links": [
+              {
+                "text": "European Commissioner for Research, Science and Innovation",
+                "type": "internal",
+                "page": "Juncker Commission"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Jean-Claude Juncker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jean-Claude Juncker"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 November 2014"
+          },
+          "term_end2": {
+            "text": "30 November 2019"
+          },
+          "predecessor2": {
+            "text": "Máire Geoghegan-Quinn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Máire Geoghegan-Quinn"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Mariya Gabriel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mariya Gabriel"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Assistant Secretary of State to the Prime Minister",
+            "links": [
+              {
+                "text": "Assistant Secretary of State to the Prime Minister",
+                "type": "internal",
+                "page": "Prime Minister of Portugal"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "28 June 2011"
+          },
+          "term_end3": {
+            "text": "10 September 2014"
+          },
+          "primeminister3": {
+            "text": "Pedro Passos Coelho",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pedro Passos Coelho"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "João Almeida Ribeiro"
+          },
+          "successor3": {
+            "text": "Duarte Cordeiro"
+          },
+          "birth_name": {
+            "text": "Carlos Manuel Félix Moedas"
+          },
+          "birth_date": {
+            "text": "August 10, 1970"
+          },
+          "birth_place": {
+            "text": "Beja, Portugal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Beja, Portugal"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democratic",
+            "links": [
+              {
+                "text": "Social Democratic",
+                "type": "internal",
+                "page": "Social Democratic Party (Portugal)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Céline Dora Judith Abecassis (m. 2000)"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "education": {
+            "text": "University of Lisbon\nHarvard University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Lisbon"
+              },
+              {
+                "type": "internal",
+                "page": "Harvard University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "European Commission",
+          "date": "2014-09-10",
+          "title": "The Juncker Commission: A strong and experienced team standing for change",
+          "url": "http://europa.eu/rapid/press-release_IP-14-984_en.htm",
+          "author-link": "European Commission",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Moedas was born to a communist journalist and a seamstress in Beja, Alentejo, southern Portugal, in 1970.",
+              "links": [
+                {
+                  "text": "Beja",
+                  "type": "internal",
+                  "page": "Beja, Portugal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alentejo"
+                }
+              ]
+            },
+            {
+              "text": "He studied at Lisbon University, graduating in 1993 with a degree in Civil Engineering from the Instituto Superior Técnico.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lisbon University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Civil Engineering"
+                },
+                {
+                  "type": "internal",
+                  "page": "Instituto Superior Técnico"
+                }
+              ]
+            },
+            {
+              "text": "He spent his final year studying at the ENPC (Paris) via the Erasmus Programme; he was one of the first Portuguese students to undertake an Erasmus exchange.",
+              "links": [
+                {
+                  "text": "ENPC",
+                  "type": "internal",
+                  "page": "École des Ponts ParisTech"
+                },
+                {
+                  "type": "internal",
+                  "page": "Paris"
+                },
+                {
+                  "type": "internal",
+                  "page": "Erasmus Programme"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Professional career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After leaving university, Moedas worked as a project manager for the Suez Group in France between 1993 and 1998.",
+              "links": [
+                {
+                  "text": "Suez Group",
+                  "type": "internal",
+                  "page": "Suez (company, 1997–2008)"
+                }
+              ]
+            },
+            {
+              "text": "He then took postgraduate studies at Harvard Business School, graduating in 2000 with the degree of MBA, after which he came back to Europe to work in mergers and acquisitions for Goldman Sachs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Harvard Business School"
+                },
+                {
+                  "type": "internal",
+                  "page": "MBA"
+                },
+                {
+                  "text": "mergers and acquisitions",
+                  "type": "internal",
+                  "page": "mergers and acquisitions"
+                },
+                {
+                  "type": "internal",
+                  "page": "Goldman Sachs"
+                }
+              ]
+            },
+            {
+              "text": "He then worked at Eurohypo Investment Bank in its Real Estate Investment Banking Division, before returning, in August 2004, to Portugal, when Moedas joined the real estate consulting company Aguirre Newman Portugal (now Savills Portugal ) becoming Managing Partner until 2008, when he set up his own investment management company, Crimson Investment Management.",
+              "links": [
+                {
+                  "text": "Eurohypo Investment Bank",
+                  "type": "internal",
+                  "page": "Eurohypo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Managing Partner"
+                },
+                {
+                  "text": "investment management",
+                  "type": "internal",
+                  "page": "investment management"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Aguirre Newman Portugal",
+                  "Savills Portugal",
+                  "Crimson Investment Management"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the Eurozone crisis, Moedas was appointed coordinator of the Social Democratic Party (PSD) Economic Research Unit.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eurozone crisis"
+                },
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Social Democratic Party (Portugal)"
+                }
+              ]
+            },
+            {
+              "text": "He and Eduardo Catroga led PSD negotiations in the run-up to Portugal's 2011 State Budget, following which he was selected by PSD to contest the Beja constituency in the legislative elections held on the 5th of June 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eduardo Catroga"
+                },
+                {
+                  "text": "Beja",
+                  "type": "internal",
+                  "page": "Beja District"
+                },
+                {
+                  "text": "legislative elections held on the 5th of June 2011",
+                  "type": "internal",
+                  "page": "2011 Portuguese legislative election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Moedas was elected to Parliament, becoming the first PSD Member of Parliament for that district since 1995.",
+              "links": [
+                {
+                  "text": "Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Portugal"
+                }
+              ]
+            },
+            {
+              "text": "The day after entering Parliament, on the 21st of June 2011, the Prime Minister appointed him to his Cabinet in the XIX Constitutional Government as Secretary of State."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Moedas oversaw EASME (Executive Agency for Small and Medium-sized Enterprises), the agency created to monitor and control the implementation of the structural reforms agreed in the context of the assistance programme by a troika composed of the European Commission, European Central Bank and the International Monetary Fund.",
+              "links": [
+                {
+                  "text": "troika",
+                  "type": "internal",
+                  "page": "European troika"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Commission"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Central Bank"
+                },
+                {
+                  "type": "internal",
+                  "page": "International Monetary Fund"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2014, Pedro Passos Coelho, Prime Minister of Portugal, nominated him as European Commissioner, and Moedas' name was approved by EC President-elect Jean-Claude Juncker on 1 September.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pedro Passos Coelho"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Commissioner"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jean-Claude Juncker"
+                }
+              ]
+            },
+            {
+              "text": "On 1 November 2014, Moedas became European Commissioner for Research, Science and Innovation."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2021, Moedas announced his candidacy as Mayor of Lisbon in the 2021 local elections, and was elected on 26 September of the same year.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mayor of Lisbon"
+                },
+                {
+                  "text": "2021 local elections",
+                  "type": "internal",
+                  "page": "Results breakdown of the 2021 Portuguese local elections by major cities",
+                  "anchor": "Lisbon"
+                }
+              ]
+            },
+            {
+              "text": "He took office on 18 October 2021."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Portrait_of_Carlos_Moedas.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Portrait_of_Carlos_Moedas.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Portrait_of_Carlos_Moedas.jpg",
+          "caption": "Official portrait as European Commissioner, 2016",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Passos indica Carlos Moedas para comissário europeu - Politica - DN",
+          "url": "https://www.dn.pt/politica/interior/passos-indica-carlos-moedas-para-comissario-europeu-4058543.html",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.ft.com/intl/cms/s/0/e0b5448c-4cd2-11e1-8741-00144feabdc0.html#axzz2YexPYA46",
+          "title": "Portugal presses on with reforms",
+          "date": "February 1, 2012",
+          "publisher": "Financial Times",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "European Council on Foreign Relations (ECFR), Member (since 2021)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "European Council on Foreign Relations"
+              }
+            ]
+          },
+          {
+            "text": "Aga Khan University, Member of the Chancellor’s Commission (since 2021)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aga Khan University"
+              }
+            ]
+          },
+          {
+            "text": "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
+          },
+          {
+            "text": "Friends of Europe, Member of the Board of Trustees (since 2020)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Friends of Europe"
+              }
+            ]
+          },
+          {
+            "text": "Trilateral Commission, Member of the European Group (since 2020)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Trilateral Commission"
+              }
+            ]
+          },
+          {
+            "text": "UNESCO, Member of the Advisory Board of the “Futures of Education” Initiative (since 2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "UNESCO"
+              }
+            ]
+          },
+          {
+            "text": "Jacques Delors Institute, Vice-President (since 2020), Member of the Board of Directors (since 2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacques Delors Institute"
+              }
+            ]
+          },
+          {
+            "text": "Re-Imagine Europa, Member of the Advisory Board"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Honours and awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Member of the Portuguese Academy of Engineering (2014)"
+          },
+          {
+            "text": "Commander of the Spanish Order of Civil Merit by the King Felipe VI of Spain (2015)",
+            "links": [
+              {
+                "text": "Spanish Order of Civil Merit",
+                "type": "internal",
+                "page": "Order of Civil Merit"
+              }
+            ]
+          },
+          {
+            "text": "Honorary Doctorate in Laws by the University of Cork (2016)"
+          },
+          {
+            "text": "Honorary Doctorate by ESCP Europe - École supérieure de commerce de Paris (2018)",
+            "links": [
+              {
+                "text": "Honorary Doctorate by ESCP Europe - ''École supérieure de commerce de Paris'' (2018)",
+                "type": "external",
+                "site": "https://www.escpeurope.eu/sites/default/files/2018-12/ESCP%20Europe%20PR_Doctors%20Honoris%20Causa_dec_EN.pdf"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "École supérieure de commerce de Paris"
+              ]
+            }
+          },
+          {
+            "text": "Honorary Fellow of the AAS - African Academy of Sciences (2018)"
+          },
+          {
+            "text": "Gold Medal from the Portuguese Order of Engineering (2019)"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Publications",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Amaro, N. L., Moedas, C. 2011. O Novo Paradigma do Investimento Imobiliário: Análise e estratégias para um sector-chave da economia. Sabedoria Alternativa"
+          },
+          {
+            "text": "Bogers, M., Chesbrough, H., Moedas, C. 2018. Open Innovation: Research, Practices, and Policies. California Management Review, Volume: 60 issue: 2, page(s): 5-16",
+            "links": [
+              {
+                "text": "Bogers, M., Chesbrough, H., Moedas, C. 2018. Open Innovation: Research, Practices, and Policies. California Management Review, Volume: 60 issue: 2, page(s): 5-16",
+                "type": "external",
+                "site": "http://journals.sagepub.com/doi/full/10.1177/0008125617745086"
+              }
+            ]
+          },
+          {
+            "text": "Moedas, C. “Vento Suão: Portugal e a Europa”, Guerra e Paz, Lisboa, 2020."
+          }
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "pt"
+          ],
+          "template": "in lang"
+        },
+        {
+          "list": [
+            "pt"
+          ],
+          "template": "in lang"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "XIX Constitutional Government of Portugal",
+            "links": [
+              {
+                "text": "XIX Constitutional Government of Portugal",
+                "type": "internal",
+                "page": ":pt:XIX Governo Constitucional de Portugal"
+              }
+            ]
+          },
+          {
+            "text": "List of Parliament members in Portugal",
+            "links": [
+              {
+                "text": "List of Parliament members in Portugal",
+                "type": "internal",
+                "page": ":pt:Lista de deputados portugueses"
+              }
+            ]
+          },
+          {
+            "text": "Petros Christodoulou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petros Christodoulou"
+              }
+            ]
+          },
+          {
+            "text": "Massimo Tononi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Massimo Tononi"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "3"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commonscat"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Fernando Medina",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Lisbon",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "José Manuel Barroso",
+          "template": "s-bef"
+        },
+        {
+          "title": "Portuguese European Commissioner",
+          "years": "2014–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Elisa Ferreira",
+          "template": "s-aft"
+        },
+        {
+          "before": "Máire Geoghegan-Quinn",
+          "as": "European Commissioner for Research, Innovation and Science",
+          "template": "s-bef"
+        },
+        {
+          "title": "European Commissioner for Research, Science and Innovation",
+          "years": "2014–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Mariya Gabriel",
+          "as": "European Commissioner for Innovation, Research, Culture, Education and Youth",
+          "template": "s-aft"
+        },
+        {
+          "template": "mayors of capital cities of european union member states"
+        },
+        {
+          "state": "collapsed",
+          "template": "juncker commission"
+        },
+        {
+          "template": "european commissioners from portugal"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Biography on the European Commission website",
+            "links": [
+              {
+                "text": "Biography on the European Commission website",
+                "type": "external",
+                "site": "http://ec.europa.eu/commission/2014-2019/moedas_en"
+              }
+            ]
+          },
+          {
+            "text": "Article on Wall Street Journal by Carlos Moedas",
+            "links": [
+              {
+                "text": "Article on Wall Street Journal by Carlos Moedas",
+                "type": "external",
+                "site": "https://www.wsj.com/articles/SB10001424052970204661604577184761723189098"
+              }
+            ]
+          },
+          {
+            "text": "Article on Les Echos (French) by Carlos Moedas",
+            "links": [
+              {
+                "text": "Article on Les Echos (French) by Carlos Moedas",
+                "type": "external",
+                "site": "http://lecercle.lesechos.fr/economie-societe/international/europe/221144349/retour-portugal"
+              }
+            ]
+          },
+          {
+            "text": "Article on Science Diplomacy and the European Union",
+            "links": [
+              {
+                "text": "Article on Science Diplomacy and the European Union",
+                "type": "external",
+                "site": "http://www.sciencediplomacy.org/perspective/2016/science-diplomacy-in-european-union"
+              }
+            ]
+          },
+          {
+            "text": "Article on California Management Review: Open Innovation: Research, Practices, and Policies by Marcel Bogers, Henry Chesbrough, Carlos Moedas",
+            "links": [
+              {
+                "text": "Article on California Management Review: Open Innovation: Research, Practices, and Policies by Marcel Bogers, Henry Chesbrough, Carlos Moedas",
+                "type": "external",
+                "site": "http://journals.sagepub.com/doi/full/10.1177/0008125617745086"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
