@@ -34,15 +34,6 @@
           ]
         }
       ],
-      "images": [
-        {
-          "file": "File:José_Luís_Carneiro,_Secretário_de_Estado_das_Comunidades_Portuguesas2.png",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Jos%C3%A9_Lu%C3%ADs_Carneiro%2C_Secret%C3%A1rio_de_Estado_das_Comunidades_Portuguesas2.png?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Jos%C3%A9_Lu%C3%ADs_Carneiro%2C_Secret%C3%A1rio_de_Estado_das_Comunidades_Portuguesas2.png",
-          "caption": "José Luís Carneiro in 2017.",
-          "links": []
-        }
-      ],
       "templates": [
         {
           "description": "Portuguese politician",
@@ -52,6 +43,132 @@
           "topic": "bio",
           "date": "April 2022",
           "template": "expand portuguese"
+        },
+        {
+          "year": "1971",
+          "month": "10",
+          "day": "4",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "José Luís Carneiro"
+          },
+          "image": {
+            "text": "JoséLuísCarneiro.png"
+          },
+          "office1": {
+            "text": "Minister of Internal Administration",
+            "links": [
+              {
+                "text": "Minister of Internal Administration",
+                "type": "internal",
+                "page": "Ministry of Internal Administration (Portugal)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "António Costa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "António Costa"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "30 March 2022"
+          },
+          "predecessor1": {
+            "text": "Francisca Van Dunem",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Francisca Van Dunem"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Secretary of State for Portuguese Communities",
+            "links": [
+              {
+                "text": "Secretary of State for Portuguese Communities",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Portugal)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "António Costa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "António Costa"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "26 November 2015"
+          },
+          "term_end2": {
+            "text": "26 October 2019"
+          },
+          "predecessor2": {
+            "text": "José Cesário",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Cesário"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Berta Nunes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Berta Nunes"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "José Luís Pereira Carneiro"
+          },
+          "birth_date": {
+            "text": "October 4, 1971"
+          },
+          "birth_place": {
+            "text": "Baião, Porto, Portugal",
+            "links": [
+              {
+                "text": "Baião",
+                "type": "internal",
+                "page": "Baião, Portugal"
+              },
+              {
+                "text": "Porto",
+                "type": "internal",
+                "page": "Porto District"
+              },
+              {
+                "type": "internal",
+                "page": "Portugal"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party (Portugal)"
+              }
+            ]
+          }
         }
       ]
     },
