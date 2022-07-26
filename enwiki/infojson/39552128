@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Portugal"
+      ],
+      "stated_as": "Assistant Secretary of State to the Prime Minister"
+    },
+    "P580": "2011-06-28",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "João Almeida Ribeiro"
+    },
+    "P582": "2014-09-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Duarte Cordeiro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Juncker Commission"
+      ],
+      "stated_as": "European Commissioner for Research, Science and Innovation"
+    },
+    "P580": "2014-11-01",
+    "P1365": {
+      "links": [
+        "Máire Geoghegan-Quinn"
+      ],
+      "stated_as": "Máire Geoghegan-Quinn"
+    },
+    "P582": "2019-11-30",
+    "P1366": {
+      "links": [
+        "Mariya Gabriel"
+      ],
+      "stated_as": "Mariya Gabriel"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Lisbon"
+      ],
+      "stated_as": "Mayor of Lisbon"
+    },
+    "P580": "2021-10-18",
+    "P1365": {
+      "links": [
+        "Fernando Medina"
+      ],
+      "stated_as": "Fernando Medina"
+    }
+  }
+]

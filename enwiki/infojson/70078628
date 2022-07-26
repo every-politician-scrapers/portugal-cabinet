@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Secretary of State for Human Resources and Former Combatants"
+    },
+    "P580": "2019-10-26",
+    "P582": "2022-03-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice (Portugal)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2022-03-30",
+    "P1365": {
+      "links": [
+        "Francisca Van Dunem"
+      ],
+      "stated_as": "Francisca Van Dunem"
+    }
+  }
+]

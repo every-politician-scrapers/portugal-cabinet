@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "Funchal"
+      ],
+      "stated_as": "Mayor of Funchal"
+    },
+    "P580": "1994-09-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Virgílio Pereira"
+    },
+    "P582": "2013-10-21",
+    "P1366": {
+      "links": [
+        "Paulo Cafôfo"
+      ],
+      "stated_as": "Paulo Cafôfo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Madeira",
+        "Social Democratic Party (Portugal)"
+      ],
+      "stated_as": "President of the Madeira section of the Social Democratic Party"
+    },
+    "P580": "2015-01-10",
+    "P1365": {
+      "links": [
+        "Alberto João Jardim"
+      ],
+      "stated_as": "Alberto João Jardim"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Regional Government of Madeira"
+      ],
+      "stated_as": "President of the Regional Government of Madeira"
+    },
+    "P580": "2015-04-20",
+    "P1365": {
+      "links": [
+        "Alberto João Jardim"
+      ],
+      "stated_as": "Alberto João Jardim"
+    }
+  }
+]

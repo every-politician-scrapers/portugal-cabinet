@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "Presidency of the Council of Ministers (Portugal)"
+      ],
+      "stated_as": "Minister of the Presidency and Administrative Modernisation"
+    },
+    "P580": "2019-02-18",
+    "P1365": {
+      "links": [
+        "Maria Manuel Leitão Marques"
+      ],
+      "stated_as": "Maria Manuel Leitão Marques"
+    },
+    "P582": "2019-10-26",
+    "P1366": {
+      "links": [
+        "Presidency of the Council of Ministers (Portugal)",
+        "Alexandra Leitão",
+        "Ministry of Modernisation of the State and Public Administration"
+      ],
+      "stated_as": "Herself (as Minister of the Presidency) Alexandra Leitão (as Minister for Administrative Modernisation)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Presidency of the Council of Ministers (Portugal)"
+      ],
+      "stated_as": "Minister of the Presidency"
+    },
+    "P580": "2019-10-26",
+    "P1365": {
+      "links": [
+        "Presidency of the Council of Ministers (Portugal)"
+      ],
+      "stated_as": "Herself (as Minister of the Presidency and Administrative Modernisation)"
+    }
+  }
+]
