@@ -1,0 +1,127 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Education (Portugal)"
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "2000-09-14",
+    "P1365": {
+      "links": [
+        "Guilherme d'Oliveira Martins"
+      ],
+      "stated_as": "Guilherme d'Oliveira Martins"
+    },
+    "P582": "2001-07-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Júlio Pedrosa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture (Portugal)"
+      ],
+      "stated_as": "Minister of Culture"
+    },
+    "P580": "2001-07-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "José Sasportes"
+    },
+    "P582": "2002-04-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Pedro Roseta"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Parliamentary Affairs (Portugal)"
+      ],
+      "stated_as": "Minister of Parliamentary Affairs"
+    },
+    "P580": "2005-03-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rui Gomes da Silva"
+    },
+    "P582": "2009-10-26",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jorge Lacão"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Defence (Portugal)"
+      ],
+      "stated_as": "Minister of National Defence"
+    },
+    "P580": "2009-10-26",
+    "P1365": {
+      "links": [
+        "Nuno Severiano Teixeira"
+      ],
+      "stated_as": "Nuno Severiano Teixeira"
+    },
+    "P582": "2011-06-21",
+    "P1366": {
+      "links": [
+        "José Pedro Aguiar Branco"
+      ],
+      "stated_as": "José Pedro Aguiar Branco"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Portugal)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2015-11-26",
+    "P1365": {
+      "links": [
+        "Rui Machete"
+      ],
+      "stated_as": "Rui Machete"
+    },
+    "P582": "2022-03-28",
+    "P1366": {
+      "links": [
+        "João Gomes Cravinho"
+      ],
+      "stated_as": "João Gomes Cravinho"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of presidents of the Assembly of the Republic (Portugal)"
+      ],
+      "stated_as": "President of the Assembly of the Republic"
+    },
+    "P580": "2022-03-29",
+    "P1365": {
+      "links": [
+        "Eduardo Ferro Rodrigues"
+      ],
+      "stated_as": "Eduardo Ferro Rodrigues"
+    }
+  }
+]

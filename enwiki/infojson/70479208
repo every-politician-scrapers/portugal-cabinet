@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Portugal)"
+      ],
+      "stated_as": "Secretary of State for Portuguese Communities"
+    },
+    "P580": "2015-11-26",
+    "P1365": {
+      "links": [
+        "José Cesário"
+      ],
+      "stated_as": "José Cesário"
+    },
+    "P582": "2019-10-26",
+    "P1366": {
+      "links": [
+        "Berta Nunes"
+      ],
+      "stated_as": "Berta Nunes"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Internal Administration (Portugal)"
+      ],
+      "stated_as": "Minister of Internal Administration"
+    },
+    "P580": "2022-03-30",
+    "P1365": {
+      "links": [
+        "Francisca Van Dunem"
+      ],
+      "stated_as": "Francisca Van Dunem"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy (Portugal)"
+      ],
+      "stated_as": "Secretary of State for Tourism"
+    },
+    "P580": "2015",
+    "P1365": {
+      "links": [
+        "Adolfo Mesquita Nunes"
+      ],
+      "stated_as": "Adolfo Mesquita Nunes"
+    },
+    "P582": "2019",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rita Marques"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Labour, Solidarity and Social Security"
+      ],
+      "stated_as": "Minister of Labour, Solidarity and Social Security"
+    },
+    "P580": "2019-10-26",
+    "P1365": {
+      "links": [
+        "José António Vieira da Silva"
+      ],
+      "stated_as": "José António Vieira da Silva"
+    }
+  }
+]

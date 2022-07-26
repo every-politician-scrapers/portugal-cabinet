@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "Assembly of the Republic (Portugal)",
+        "Lisbon District"
+      ],
+      "stated_as": "Member of the Assembly of the Republic\nfor Lisbon"
+    },
+    "P580": "2015-10-23",
+    "P582": "2015-11-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Portugal)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2015-11-26",
+    "P1365": {
+      "links": [
+        "Maria Luís Albuquerque"
+      ],
+      "stated_as": "Maria Luís Albuquerque"
+    },
+    "P582": "2020-06-15",
+    "P1366": {
+      "links": [
+        "João Leão"
+      ],
+      "stated_as": "João Leão"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Eurogroup"
+      ],
+      "stated_as": "President of the Eurogroup"
+    },
+    "P580": "2018-01-13",
+    "P1365": {
+      "links": [
+        "Jeroen Dijsselbloem"
+      ],
+      "stated_as": "Jeroen Dijsselbloem"
+    },
+    "P582": "2020-07-13",
+    "P1366": {
+      "links": [
+        "Paschal Donohoe"
+      ],
+      "stated_as": "Paschal Donohoe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Banco de Portugal"
+      ],
+      "stated_as": "Governor of the Bank of Portugal"
+    },
+    "P580": "2020-07-20",
+    "P1365": {
+      "links": [
+        "Carlos da Silva Costa"
+      ],
+      "stated_as": "Carlos Costa"
+    }
+  }
+]

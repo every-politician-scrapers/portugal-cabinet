@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "Presidency of the Council of Ministers (Portugal)"
+      ],
+      "stated_as": "Secretary of State for the Presidency of the Council of Ministers"
+    },
+    "P580": "1981-09-04",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "José Luís da Cruz Vilaça"
+    },
+    "P582": "1982-06-10",
+    "P1366": {
+      "links": [
+        "Leonor Beleza"
+      ],
+      "stated_as": "Leonor Beleza"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Parliamentary Affairs (Portugal)"
+      ],
+      "stated_as": "Minister of Parliamentary Affairs"
+    },
+    "P580": "1982-06-12",
+    "P1365": {
+      "links": [
+        "Fernando Amaral"
+      ],
+      "stated_as": "Fernando Amaral"
+    },
+    "P582": "1983-06-09",
+    "P1366": {
+      "links": [
+        "António de Almeida Santos"
+      ],
+      "stated_as": "António de Almeida Santos"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Portugal)"
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "1996-03-31",
+    "P1365": {
+      "links": [
+        "Fernando Nogueira"
+      ],
+      "stated_as": "Fernando Nogueira"
+    },
+    "P582": "1999-05-01",
+    "P1366": {
+      "links": [
+        "José Manuel Barroso"
+      ],
+      "stated_as": "José Manuel Barroso"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Social Democratic Party (Portugal)"
+      ],
+      "stated_as": "President of the Social Democratic Party"
+    },
+    "P580": "1996-03-31",
+    "P1365": {
+      "links": [
+        "Fernando Nogueira"
+      ],
+      "stated_as": "Fernando Nogueira"
+    },
+    "P582": "1999-05-01",
+    "P1366": {
+      "links": [
+        "José Manuel Barroso"
+      ],
+      "stated_as": "José Manuel Barroso"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Portugal"
+      ],
+      "stated_as": "President of Portugal"
+    },
+    "P580": "2016-03-09",
+    "P1365": {
+      "links": [
+        "Aníbal Cavaco Silva"
+      ],
+      "stated_as": "Aníbal Cavaco Silva"
+    }
+  }
+]

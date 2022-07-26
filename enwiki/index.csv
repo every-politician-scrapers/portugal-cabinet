@@ -1,26 +1,26 @@
-pageid,title
-853050,António Costa
-1652059,Marcelo Rebelo de Sousa
-39552128,Carlos Moedas
-40671178,Miguel Albuquerque
-50921853,Augusto Santos Silva
-52219307,Fernando Medina
-52594399,Manuel Lobo Antunes
-55774026,Mário Centeno
-58756431,Marta Temido
-58764608,João Gomes Cravinho
-63916324,Elvira Fortunato
-66116307,Ana Abrunhosa
-66225425,Mariana Vieira da Silva
-66573218,António da Silva Ribeiro
-67326197,Ana Catarina Mendes
-67359817,Ana Mendes Godinho
-69584741,Pedro Nuno Santos
-69584799,Maria do Céu Antunes
-70078628,Catarina Sarmento e Castro
-70443525,Helena Carreiras
-70462978,António Costa Silva
-70479208,José Luís Carneiro
-70479226,Pedro Adão e Silva
-70479245,João Marques da Costa
-70479275,Duarte Cordeiro
+pageid,title,wikidata,label
+853050,António Costa,Q610788,António Costa
+1652059,Marcelo Rebelo de Sousa,Q6756617,Marcelo Rebelo de Sousa
+39552128,Carlos Moedas,Q9697231,Carlos Moedas
+40671178,Miguel Albuquerque,Q10329706,Miguel Albuquerque
+50921853,Augusto Santos Silva,Q769747,Augusto Santos Silva
+52219307,Fernando Medina,Q20017756,Fernando Medina
+52594399,Manuel Lobo Antunes,Q3286873,Manuel Lobo Antunes
+55774026,Mário Centeno,Q21568721,Mário Centeno
+58756431,Marta Temido,Q57339530,Marta Temido
+58764608,João Gomes Cravinho,Q57343622,João Gomes Cravinho
+63916324,Elvira Fortunato,Q10272093,Elvira Fortunato
+66116307,Ana Abrunhosa,Q72426658,Ana Abrunhosa
+66225425,Mariana Vieira da Silva,Q28973799,Mariana Vieira da Silva
+66573218,António da Silva Ribeiro,Q106542530,António Manuel Fernandes da Silva Ribeiro
+67326197,Ana Catarina Mendes,Q65498266,Ana Catarina Mendes
+67359817,Ana Mendes Godinho,Q52112309,Ana Mendes Godinho
+69584741,Pedro Nuno Santos,Q10347660,Pedro Nuno Santos
+69584799,Maria do Céu Antunes,Q72410716,Maria do Céu Antunes
+70078628,Catarina Sarmento e Castro,Q25336913,Catarina Sarmento e Castro
+70443525,Helena Carreiras,Q111346739,Helena Carreiras
+70462978,António Costa Silva,Q97170467,António Costa Silva
+70479208,José Luís Carneiro,Q74256324,José Luís Carneiro
+70479226,Pedro Adão e Silva,Q111435569,Pedro Adão e Silva
+70479245,João Marques da Costa,Q108120815,João Costa
+70479275,Duarte Cordeiro,Q111349255,Duarte Cordeiro

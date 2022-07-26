@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Labour, Solidarity and Social Security"
+      ],
+      "stated_as": "Secretary of State for Employment and Vocational Training"
+    },
+    "P580": "2005-03-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Luís Pais Antunes"
+    },
+    "P582": "2009-10-26",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Valter Lemos"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy (Portugal)"
+      ],
+      "stated_as": "Assistant Secretary of State for Industry and Development"
+    },
+    "P580": "2009-10-31",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "António Castro Guerra"
+    },
+    "P582": "2011-06-21",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "António Almeida Henriques"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Mayor of Lisbon"
+    },
+    "P580": "2013-10-24",
+    "P1365": {
+      "links": [
+        "Manuel Salgado"
+      ],
+      "stated_as": "Manuel Salgado"
+    },
+    "P582": "2015-04-06",
+    "P1366": {
+      "links": [
+        "Duarte Cordeiro"
+      ],
+      "stated_as": "Duarte Cordeiro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Lisbon"
+      ],
+      "stated_as": "Mayor of Lisbon"
+    },
+    "P580": "2015-04-06",
+    "P1365": {
+      "links": [
+        "António Costa"
+      ],
+      "stated_as": "António Costa"
+    },
+    "P582": "2021-10-18",
+    "P1366": {
+      "links": [
+        "Carlos Moedas"
+      ],
+      "stated_as": "Carlos Moedas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Portugal)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2022-03-30",
+    "P1365": {
+      "links": [
+        "João Leão"
+      ],
+      "stated_as": "João Leão"
+    }
+  }
+]
