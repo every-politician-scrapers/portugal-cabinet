@@ -196,7 +196,7 @@
               }
             },
             {
-              "text": "She graduated in Law from the Faculty of Law of the University of Lisbon and followed post-graduate studies in Labour Law.",
+              "text": "She graduated in law from the Faculty of Law of the University of Lisbon and followed post-graduate studies in Labour Law.",
               "links": [
                 {
                   "type": "internal",
@@ -208,10 +208,10 @@
               "text": "After a legal internship, she became a legal consultant to the Portuguese Ministry of National Defence and, later, the Directorate-General for Tourism, between 1997 and 2001."
             },
             {
-              "text": "She is a qualified Labour Inspector and from 2001 directed the Department for the Support of Inspection Activity at the Portuguese Authority for Working Conditions (ACT)."
+              "text": "She is a qualified Labour Inspector and from 2001 directed the department for the Support of Inspection Activity at the Portuguese Authority for Working Conditions (ACT)."
             },
             {
-              "text": "She was Vice-President of the Portuguese National Tourism Authority (Turismo de Portugal), and a member of the Board of two tourism companies.",
+              "text": "She was vice-president of the Portuguese National Tourism Authority (Turismo de Portugal), and a member of the Board of two tourism companies.",
               "formatting": {
                 "italic": [
                   "Turismo de Portugal"
@@ -344,14 +344,6 @@
           "type": "inline",
           "data": {},
           "inline": {}
-        },
-        {
-          "title": "Ana Mendes Godinho: a ministra que adora costurar",
-          "url": "https://www.noticiasmagazine.pt/2020/ana-mendes-godinho-a-ministra-que-adora-costurar/historias/252282/",
-          "website": "Jornal de Notícias",
-          "access-date": "9 April 2021",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
