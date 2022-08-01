@@ -83,12 +83,16 @@
               }
             },
             {
-              "text": "Albuquerque likes gardening, growing many types of roses in his Duchess of Braganza Rose Garden.",
+              "text": "Albuquerque likes gardening, growing many types of roses in his Duchess of Braganza Rose Garden and the Quinta do Arco.",
               "links": [
                 {
                   "text": "Duchess of Braganza",
                   "type": "internal",
                   "page": "Duke of Braganza"
+                },
+                {
+                  "type": "internal",
+                  "page": "Quinta do Arco"
                 }
               ]
             }
